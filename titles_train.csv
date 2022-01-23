@@ -1,0 +1,1316 @@
+,text,label
+1037,New method to reduce characters in binary coding - storing? Would like to hear your opinions on this…,compsci
+558,From 53% to 95% acc - Real vs Fake Faces Classification | Fine-tuning EfficientNet (Github in comment),learnmachinelearning
+926,Is there a University that proposes a master degree linking AI and Climate Change ? Or any organisation that searches someone in those domains ?,compsci
+1099,GitHub Copilot Generated Insecure Code In 40% Of Circumstances During Experiment,compsci
+801,Loading Keras Model,learnmachinelearning
+405,Standing desks?,datascience
+357,Is it difficult to stay in shape as a professional data scientist? Appreciate any insights regarding the health aspect of the job,datascience
+945,"American computer science graduates appear to enter school with deficiencies in math and physics compared to other nations, but graduate with better scores in these subjects.",compsci
+32,I don't understand why DS has code tests,datascience
+1378,Python bytecode explained,Python
+417,Want to move onto from Python but I feel that I'm not going to enjoy another programming language as much as I like Python,learnmachinelearning
+391,Selling Data,datascience
+1128,Make Lisp 15x faster than Python or 4x faster than Java,Python
+575,Backpropagation from Scratch in Python,learnmachinelearning
+1455,I made a Finance Database with over 180.000 tickers to make Investment Decisions easier,Python
+1144,My biggest struggle while helping newcomers with Python,Python
+1345,Web api benchmarking: Python (Flask) vs Rust (actix-web),Python
+508,Using Drones to detect potential Covid-19 patients.,learnmachinelearning
+1516,"""Automate the Boring Stuff with Python"" online course is free to sign up for the next few days with code APR2021FREE",Python
+1481,Enable ++x and --x expressions in Python,Python
+1340,pytest-neo is a plugin for pytest that shows tests like screen of Matrix.,Python
+148,Is Data Science 90% boring and 10% mega-interesting?,datascience
+508,AI basketball analysis web App and API,learnmachinelearning
+365,Data scientist is a bad title,datascience
+1377,interleave — Run iterators in threads and collect their values,Python
+910,What will personal computers be like in 50-100 years time?,compsci
+399,Where to go?,datascience
+1141,I was having way too much fun with a script and decided it needed an appropriate logo. Hope you enjoy!,Python
+850,Rotating an image recursively. One of my favorite algorithms!,compsci
+443,Neural Networks Cheat Sheet,learnmachinelearning
+921,"OR, AND, XOR gates using dominoes",compsci
+932,"A list of 30+ free textbooks from calculus, linear algebra to discrete math, proof, combinatorics and programming",compsci
+1068,Tried animating a DFS traversal using python,compsci
+1068,What is the significance of CORS? (Cross-origin resource sharing),compsci
+170,How should constant ad-hoc requests be handled by a data science team?,datascience
+1219,"Learn You Some Algebras for Glorious Good! - a fun, easy-to-read math textbook. (It's also free, in both senses).",Python
+1331,Generating time-lapse videos of Earth from scrapped satellite images.,Python
+358,Zindi's official response to claims of unfair treatment by u/maroxtn,datascience
+190,Anyone else work in agriculture?,datascience
+1502,"Using a combination of lambda functions, list comprehension, and ternary operators, (and Pygame), I was able to make Flappy Bird in one line of Python!",Python
+1193,An alternative lambda syntax for Python,Python
+646,Are there any papers on this?,learnmachinelearning
+371,SQL why do I see it as recommended knowledge for most internships but isn’t taught in college.,datascience
+626,Can overfitting pass unnoticed because of a small dataset?,learnmachinelearning
+912,"If the halting problem says no program can determine if a program terminates, how can I know while(true){skip} doesn't terminate?",compsci
+1282,Convert Spotify url to mp3,Python
+1469,"We're building an app that lets you search Stack Overflow, Python documentation, and code on GitHub",Python
+167,Is Tableau a good software to become Data Visualization Designer without learning to code?,datascience
+1065,Can someone help explain why there might be issues with using cloud services for a company/industry?,compsci
+1155,Python has a sense of humor,Python
+420,Fun question: Anyone learning ML here in something other than Python or R?,learnmachinelearning
+833,"What specific ML technique should I use for predicting a country's religion through the attributes of its flag (colors, stripes, crosses, etc)?",learnmachinelearning
+560,What is an eigenvector? A 2-minute visual guide.,learnmachinelearning
+938,Found a great image explaining difference between a secure and unsecure password,compsci
+193,For data tools do you prefer a desktop or a web version?,datascience
+832,What if you could learn Machine Learning only through tweets?,learnmachinelearning
+83,Python package to collect news data from more than 3k news websites. In case you needed easy access to real data.,datascience
+1133,"MS is considering official Python integration with Excel, and is asking for input",Python
+1217,I created a python program for interactive batch cropping,Python
+367,"""I'm gonna make him a Neural Network he can't refuse"" - Godfather of AI",datascience
+580,Data Scientist vs Machine Learning Engineer?,learnmachinelearning
+578,Can an ML model have 100 per cent accuracy?,learnmachinelearning
+399,Is it normal to feel guilty when you don't work much on a work day?,datascience
+89,Rank the Data Science Titles,datascience
+851,CS Is My Life - University of Waterloo,compsci
+872,So you want to get a PhD in theoretical computer science,compsci
+905,The undecidability of the halting problem is not very important,compsci
+1462,🐍 Strategy Design Pattern in Python,Python
+569,What is overfitting? A 2-minute visual guide.,learnmachinelearning
+596,Machine Learning vs Deep Learning,learnmachinelearning
+1094,3D ray-tracing two fully reflective spheres,compsci
+890,Dead simple points interpolation with good old C++,compsci
+459,Siraj posts a new apology video,learnmachinelearning
+382,I only have about 10-15 hours of work to do.,datascience
+194,GoLang or Rust -- Do they have a place in Data Science?,datascience
+1200,These two books changed my life in 2018!,Python
+1526,"Hi, here is a file manager app built with python",Python
+1148,Finished a program that draws images with epicycles!,Python
+1086,Algorithms for Proof of Stake,compsci
+1187,I made a project that generates the graph,Python
+1097,Scott Aaronson receives 2020 ACM Prize in Computing,compsci
+815,"Need to learn following topics for ML test(stats section), where can I learn them from? Help would be greatly appreciatef :)",learnmachinelearning
+572,Overview of Machine Learning - A Powerful Artificial Intelligence Tool,learnmachinelearning
+806,Top 10 youtube channels to learn machine learning,learnmachinelearning
+894,[R] Impersonator++ Human Image Synthesis – Smarten Up Your Dance Moves!,compsci
+1057,Uncovering a 24-year-old bug in the Linux Kernel,compsci
+1181,"What does =_ mean? Example: name=forms.CharField(label=_(""Name""), max_length=50)",Python
+916,"960 cores, 4 teraflops - on your desk!",compsci
+1261,"Announcing Lingua 1.0.0: The most accurate natural language detection library for Python, suitable for long and short text alike",Python
+379,"As someone who lives in a country with no BI or Data Visualization scene, how can I build a network online with people in North America or Europe?",datascience
+639,Question about information loss when reducing image size.,learnmachinelearning
+1113,Evolution of computing level,compsci
+387,Do you think Data Science and 3D Scanning/3D modeling/3D printing could be somehow related?,datascience
+901,Redditors wanted to participate in a survey that I am conducting as part of my dissertation.,compsci
+699,Help to Run the codes from research papers,learnmachinelearning
+1297,"Smarthome with python, raspberry, grafana and influxDB",Python
+827,Is there a better notebook tool than Jupyter for cloud ML?,learnmachinelearning
+1281,I used Python to make a dot density map (with 1 dot per person) for the US Decennial Censuses from 1990 to 2020. This is over a billion points. The result is an amazing way to visualize population and demographic changes over the last 30 years. I wanted to share the code + process I used.,Python
+945,"[Showerthought] I used to wonder why people hate using some languages, and would be almost evangelical with their favorites. Now I don't.",compsci
+795,"What is x_train and y_train of a dataset I see in many tutorials. Can I have Multiple Coloum in y_train,if so how?",learnmachinelearning
+1290,Just created an open-source text adventure game engine. Still didn't upload to PyPi but will soon!,Python
+150,What algorithm am I looking for here???,datascience
+1154,So I made a Python and Arduino project that dynamically changes sets the ambient lighting to match the computed dominant color values from the wallpapers.,Python
+1502,CommieScript,Python
+1057,How does hex to base64 encoding actually work?,compsci
+1453,"Happy birthday, Python, you're 30 years old today: Easy to learn, and the right tool at the right time",Python
+1193,Microsoft Considers Adding Python As an Official Scripting Language in Excel,Python
+1138,Happy Holidays! Made a user-directed greeting card using Python Turtle Graphics,Python
+813,Handshape classification of Australian Sign Language,learnmachinelearning
+448,I certainly have some experience with DSA but upto which level is it required for ML and DL,learnmachinelearning
+1207,A Python Program that attends your online classes for you,Python
+9,No PHD Data Scientist - Avoiding Theory Hell,datascience
+847,Mathematics and Machine Learning Free Resources,learnmachinelearning
+1476,"New search engine made with Python that's anonymous and has no ads or tracking. It tries to fight spam, and gives you control of how you view search results. You can search and read content anonymously with a proxied reader view. The alpha is live and free for anyone to use at lazyweb.ai",Python
+579,I'm reading about Maximal Margin Classifier and have some questions about it. Details in comments.,learnmachinelearning
+500,What is Logistic Regression in Machine Learning? How it Works?,learnmachinelearning
+1300,"I made a cli snake game being a begginer, Im so happy:3",Python
+1466,Create splash pages in less than 20 lines of python for free. Splashgen is an open source project,Python
+1047,I SUCK AT DISCRETE MATH AND DONT KNOW WHAT TO DO,compsci
+1104,Comparison of modern video formats,compsci
+867,Sorting Algorithms Visualized [gifv],compsci
+1330,Automate your life with Python,Python
+851,Happy birthday Alan Turing!,compsci
+946,"I have started a new Youtube channel about making the ""theory"" classes in CS as easy as possible.",compsci
+356,My first technical interview experience(22+ interview questions),datascience
+1146,Mildly infuriating: being a complete novice to a new language and trying to get past the first tiny hurdles...,Python
+173,Curious on the education background of this sub,datascience
+1509,What to expect in Python 3.10 🤯,Python
+1120,Python 3 is killing Python,Python
+625,Is MatLab worth learning professionally?,learnmachinelearning
+54,Made this when I first got into data science. All I can say is that it looks cool but makes no sense at all. Yikes.,datascience
+1062,"I designed a CPU and made it print ""Hello World"" via DMA requests(details in comments).",compsci
+178,The (right) amount of domain knowledge for DS,datascience
+557,Created my FIRST Neural Network Python library called CrysX-NN,learnmachinelearning
+810,15 Best Udacity Machine Learning Courses,learnmachinelearning
+1336,What is the best strategy to align coding practice across the team?,Python
+1143,A Python GUI for uninstalling the default Windows 10 apps.,Python
+693,Stopping a Text Prediction Model Automatically,learnmachinelearning
+787,Deep Reinforcement Learning Neural Network,learnmachinelearning
+150,Is medium even proofreading submissions at all?,datascience
+1124,"I'm excited to share my first published book, Introduction to Python Programming for Business and Social Science Applications -- specifically geared towards students not specifically in computer science",Python
+804,[Project]YOLOR Object Detection for Rapid Website Code Generation,learnmachinelearning
+930,Is floating-point obsolete? Is there a way to represent values better? Here is an alternative.,compsci
+1528,rock paper scissors in less then 10 lines of code.,Python
+733,"What is the state of AI? This is the question I try to answer on my blog monthly, hoping to provide valuable information and insights to our community and those outside the field.",learnmachinelearning
+591,Machine Learning adventures with MLFlow - Deploying models from local system to Production,learnmachinelearning
+1070,The Unparalleled Genius of John von Neumann,compsci
+1258,"I'm teaching myself basic web scraping in my spare time, so I wrote this script that scrapes current info on the James Webb Space Telescope off NASA's website!",Python
+1481,The Best IDE for Programmers Ever Built? Meet Fleet by JetBrains,Python
+1114,Uncomputable Numbers,compsci
+354,I’ve made a search engine with 5000+ quality data science repositories to help you save time on your data science projects!,datascience
+1275,I'v just made my first Not-meaningless GUI program.,Python
+1166,hashtags,Python
+1494,"Got a job that requires Python and Django developement, also using Tkinter and Pyqt for desktop apps.",Python
+1098,Donate your voice to an open-source project by Mozilla,compsci
+1294,I made a GLaDOS virtual voice assistant bot,Python
+1192,Image upload and moderation with Python and Flask,Python
+889,Bought a few things for my personal project. Looking forward to digging in soon!,compsci
+597,Check out my first blog post! Its on a similar image search I built over the last few days using PyTorch,learnmachinelearning
+1168,Flying with web2py in Google App Engine,Python
+1053,/compsci Subdirect Statistics,compsci
+889,Chatbot passes Turing test,compsci
+1206,Joining string in Python,Python
+1534,Java programmer coming to Python for the first time...,Python
+28,Recruiters be like,datascience
+346,Is it ok to use Google sheets in stead of excel now?,datascience
+1493,Comprehensive Python Cheatsheet - It's HUGE,Python
+1529,"I was hired partly because of my knowledge of python, but head of IT won’t let me install it…",Python
+641,Learn How to Implement Gradient Descent From Scratch in 4 mins with Python,learnmachinelearning
+899,Alan Turing to feature on new £50 note,compsci
+1127,"Thanks to everyone’s advice, my mouse drawing algorithm has gotten much better and faster!",Python
+1140,Laid off for 8 weeks. Anyone else starting their python journey?,Python
+1547,How to use an API?,Python
+648,How to remove Missing Values in sklearn Pipeline?,learnmachinelearning
+61,Being a recent graduate,datascience
+1378,Is Spring Python dead?,Python
+693,10 Amazing Benefits of Machine Learning You Should Be Aware Of!,learnmachinelearning
+628,I need helpwith id3 implementation in Python. It kinda works but needs better output for predictions. Like tree as nested dictionaries. I can send code in pm.,learnmachinelearning
+1052,Colored ASCII generator (image2image and video2video) (Code: https://github.com/uvipen/ASCII-generator),compsci
+76,Too True,datascience
+1292,where should i start?,Python
+909,How can I pursue PhD in Programming Languages from non CS background ?,compsci
+1429,Friday Daily Thread: Free chat Friday! Daily Thread,Python
+1044,Software for tracking opened files / directories,compsci
+435,Built a Real-time Sudoku Solver! Basic Image Processing + a little Deep Learning. It's quite intriguing how simple pieces of codes can do magical stuff! Check the thread for the GitHub repo and references!,learnmachinelearning
+1314,"Why python seems to attract all ""script kiddies""",Python
+510,What has happened to Siraj Raval?,learnmachinelearning
+355,Thank you r/datascience & r/dataisbeautiful - you guys helped me get my dream job! ❤️,datascience
+489,An Interesting Map Of Computer Science - What's Missing?,learnmachinelearning
+928,Time to go back to the table — hex multiplication table that is.,compsci
+1475,Thanks for letting me join the community ❤️,Python
+928,"Is computer science ""fun?""",compsci
+826,[R]Rmse is differentiable?,learnmachinelearning
+836,Zomato Data Analysis with Jupyter Notebook,learnmachinelearning
+821,Models are just a piece of the puzzle,learnmachinelearning
+1036,"If we have programming languages ready for quantum computers then why aren't we using them for something like AI, crypto etc?",compsci
+1119,[N] Yann LeCun Team's Barlow Twins Method Boosts SSL in Image Representation via Redundancy Reduction,compsci
+585,alternative to google colab,learnmachinelearning
+1491,tkinter was shockingly easy to write a small overlay GUI,Python
+1085,Hey guys! Hope this is right place! I am drawing logic gates.. Is this correct for (AB + C)D?,compsci
+608,Efficient Geometry-aware 3D Generative Adversarial Networks | GAN Paper Explained,learnmachinelearning
+604,A model that can learn and replicate the art style of a Twitter artist...is this real? ¿Where can I find It?,learnmachinelearning
+204,In an Enterprise setting what is mostly used for data visualization?,datascience
+504,Does the fucking mathematics or theory ever get any easier?,learnmachinelearning
+210,Product Data Science Materials Recommendations?,datascience
+717,A neural search plugin for elastic/opensearch,learnmachinelearning
+1080,Programming/computer science stories with real-world consequences?,compsci
+1394,Created an ISS tracking script using NASA's API,Python
+594,Getting overwhelmed,learnmachinelearning
+1302,"Python Virtual Environment. What, Why, How. Virtualenv, Poetry.",Python
+501,Found this on r/funny seems appropriate for this sub.,learnmachinelearning
+1297,Dj-Snake: Django command to load fixture without overriding existing objects with same primary key,Python
+42,Whats the proper answer if your CEO asks you to do an ad hoc analysis asap yesterday?,datascience
+796,Hey everyone! This is a project of mine that I have been working on. It is a video captioning project. This encoder decoder architecture is used to generate captions describing scene of a video at a particular event. Here is a demo of it working in real time. Check out my Github link below. Thanks,learnmachinelearning
+816,The Best Machine Learning Courses on Udemy (According to Experts),learnmachinelearning
+80,A quick and dirty exploration of housing prices in Amsterdam [OC] [x-post /r/dataisbeautiful],datascience
+1165,An update on Python 4,Python
+1389,An easy-to-use library to manage the dependencies of your GUI elements with IPython,Python
+581,"I have come up with a dataset with DTC codes of vehicles. 1,0s indicate whether each component is in working state of fault state when the code is generated. 1-faulty , 0-working. How can I automatically add labels to the label column to train this dataset? E.g:B1200-Vehicle body issue",learnmachinelearning
+1167,How to Fail In a Successful Way at Anything You Do as a software developer,Python
+1170,I made a ray tracer that simulates curved spacetime by using Einstein's field equations from general relativity. Here's a black hole!,Python
+1132,Windows Desktop Notifications in 3 lines of Code | Python 3.6,Python
+1145,"Python project that answers high-school problems almost instantly. Made using Tesseract, Scrapy and Flask.",Python
+472,[off-topic] Winnie-the-Pooh Artificial Intelligence roadmap,learnmachinelearning
+823,What language should a beginner learn?,learnmachinelearning
+908,[P] Nifty Online Tool Animates Your Actions in Real-Time,compsci
+1126,I made a simulation using Python in which a neural network learns to race,Python
+1511,18 one liners every python developer should know to improve their coding process.,Python
+98,Need some advice for my first data science internship,datascience
+1311,pyfuncol: Functional collections extension functions for Python,Python
+1301,Naruto Best Quotes Using Python,Python
+1490,Python library to create a Spectacular Visualizations,Python
+197,COVID case data and US airline travel data together in a panel regression. 😱🦠,datascience
+1507,You can insert Emoji using `\N{NAME_OF_EMOJI}`,Python
+1461,7 Visual Studio Code Tricks For Python Developers,Python
+1050,Periodic Table of Base Data Structures (draft),compsci
+869,Why Was 5 x 3 = 5 + 5 + 5 Marked Wrong,compsci
+618,collection of free python courses,learnmachinelearning
+856,Why are loop invariants so rare in CompSci (and in code)? They can give you coding superpowers!,compsci
+75,Infographic: R vs Python for Data Science,datascience
+55,How to learn data science “best practices” if you’re the only data scientist at your first job?,datascience
+815,Build your own interactive learning roadmaps: added map editor to Learney,learnmachinelearning
+1162,"Battle of the server side scripting languages Perl, PHP, Python",Python
+806,A different way of thinking about learning machine learning,learnmachinelearning
+1432,"Optimizing code, version 1 clearly faster under profiler, version 2 clearly faster without. Why?",Python
+1304,Appwrite 0.12 - A major milestone for the open source Firebase Alternative,Python
+59,How to begin a career in data science,datascience
+1204,I created a GUI that collates various interests of mine in one handy place,Python
+1065,Must watch video on mathematics (the guts) of neural networks,compsci
+1122,Automate the boring stuff with python - tinder,Python
+699,Dimensionality Question,learnmachinelearning
+189,Psych major pursuing Stats MS w/ the goal of going into DS?,datascience
+859,Try this Crossword for Programmers !,compsci
+202,I made a modern data catalog tool for anyone using a word document or excel sheet as a data catalog. I’m curious if anyone would like to try it out.,datascience
+871,Felt like doing a portrait of one of our founding fathers,compsci
+1401,py-buzz 3.0 released! Now you can use buzz features with any exception type,Python
+1214,Announcing /r/pythoncoding: A subreddit for people who know how to program Python,Python
+620,questions about the MITx courses on probably and statistics,learnmachinelearning
+1333,"5% of 666 Python repos had comma typo bugs (including V8, Sentry, Tensorflow, and PyTorch)",Python
+1210,"Spotlightify - a overlay controller for spotify, allowing you to quickly control your music without distraction. Please let me know if you are interested in this application as I am thinking of making it public on my github in the near future (once more features have been developed), thanks!",Python
+574,20 Activation Functions in Python for Deep Neural Network,learnmachinelearning
+1463,Pyfactor update 0.4: visualise source code structure as a graph - a command line refactoring tool,Python
+436,10 Visualizations Every Data Scientist Should Know,learnmachinelearning
+1341,Just made my first useful program.,Python
+1042,Online photo book builder to license,compsci
+1088,"Does there exist a program that inputs source code and outputs time-complexity, in the form of big-O notation, of that code?",compsci
+1330,Writing CUDA kernels in Python with Numba | Meetup,Python
+1208,No weapons are allowed at Python Software Foundation events.,Python
+201,Could I consider myself a data scientist?,datascience
+1211,I wrote a python script that I'm running on my phone to play a word game called Ruzzle.,Python
+1518,Why you should learn Python with a Raspberry Pi,Python
+176,How do you keep up-to-date with emerging tech and methodologies?,datascience
+1468,An Interactive Python Cheat Sheet That Brings The Answer To You,Python
+432,How NOT to write pandas code,learnmachinelearning
+484,World's Best AI Learning Platform,learnmachinelearning
+903,"My master's thesis on circle packing, in the form of an IKEA assembly instruction",compsci
+789,Is an RTX 3050 good to learn Machine Learning and AI l?,learnmachinelearning
+1480,Python just surpassed Java as the 2nd programming language with the highest number of questions in SO.,Python
+902,Paper claiming existence of one-way functions (and hence P != NP),compsci
+603,What are resources for learning ML without python or a bunch of frameworks?,learnmachinelearning
+64,xkcd: Machine Learing,datascience
+359,Anyone else cringe when faced with working with MBAs?,datascience
+1441,Boolean Operators in Python,Python
+611,How do they give control of a game to an AI?,learnmachinelearning
+1116,Subway Station Hazard Detection,compsci
+77,How should I begin to learn Data Science?,datascience
+1382,Do you recommend Django or Masonite for high-traffic web applications?,Python
+1408,Space Science with Python - Part 22: Comet in 3D,Python
+943,"On this day in 1954, Alan Turing took his own life. He wrote this letter to a friend in 1952.",compsci
+80,Landing a Senior Data Scientist Job After 6 Months of Unemployment,datascience
+482,My alternative to Backprop?,learnmachinelearning
+808,k-Means clustering: Visually explained,learnmachinelearning
+138,"Python is ""Language of the Year for 2021"" according to TIOBE (& #1 Ranking!), and am sure the surging popularity of Data Science helped a lot in making that happen!",datascience
+480,Why is Rust a Good Language of ML?,learnmachinelearning
+215,"Actuaries who transitioned into data science, why?",datascience
+453,"Happy 2021 Everyone , Stay Healthy & Happy",learnmachinelearning
+941,I made a search engine to show the best paths for learning anything,compsci
+592,"Training AI on ""Getting over it""",learnmachinelearning
+1041,After years of coding I still feel like I don’t know how,compsci
+18,The next time my coworkers ask what metrics I used for my model.,datascience
+1536,So I like to eat and I like to code but I dont like full priced items - I built a tool to find all sales at various groceries every day so I know how to plan my meals! Take a look - its open source!,Python
+1112,Denigma is an AI that explains code in understandable English. Test it for yourself and tell me what you think,compsci
+221,How to transition to manager,datascience
+15,Brutal Honesty - No Naivety,datascience
+1213,xkcd: Python Environment,Python
+944,Would you consider Computer Science really a science?,compsci
+79,"As data scientists, does anyone else despise PowerPoint?",datascience
+642,Mastering Machine Learning,learnmachinelearning
+1106,Program for sine waves,compsci
+598,Should we drop the AI when referring to AI/ML?,learnmachinelearning
+1277,Pyspark now provides a native Pandas API,Python
+1540,THAT'S IT! I'M CONVERTING,Python
+24,Provocative question: is there a version of R that isn't broken?,datascience
+82,Thought y’all could appreciate this as well.,datascience
+939,"Does it annoy anyone else that compsci's reddit alien is saying, ""P=NP""? ",compsci
+1092,What is your favorite computer science podcast?,compsci
+71,I did it!! Now I need some resume critique,datascience
+1052,The future OS kernel will be a data-oriented scheduler (with Computer hardware and software integration architecture diagram),compsci
+1343,Storing Selenium Scraper Progress,Python
+1513,"Hey i made a currency converter . You can convert any currency and even value of gold per gram to U.S Dollars . I have added a handful of currencies in this program , so yea also this is my first post here as i just joined . This is Python CUI as i dont know GUI.",Python
+67,3rd year data scientist w/ PhD: Any advice for my resume?,datascience
+812,Numpy with Python Tutorial for Beginners | Linear System with Numpy in Python,learnmachinelearning
+1289,Data Engineering in Python,Python
+27,Found this,datascience
+420,Why you should use Sublime Text for Data Science,learnmachinelearning
+78,Data science 2.0.,datascience
+506,What English words are most common in K-pop songs? (Standford NLP & WordCloud),learnmachinelearning
+1339,Python Project : JARVIS Ai Voice Assistant (2022),Python
+1331,Variables in Python - Lecture 2 | Python Course for Beginners,Python
+1468,QR Code In 4 lines of Python Code (Create / Read),Python
+1179,5 Reasons why Python is Powerful Enough for Google,Python
+798,Successfully wrote my first back-propagation algorithm!,learnmachinelearning
+1382,How to predict the future using python,Python
+1517,Python finally has a Switch Case,Python
+937,More than a Million Pro-Repeal Net Neutrality Comments were Likely Faked,compsci
+802,Fix for Kaggle interface error,learnmachinelearning
+496,Career in Machine Learning,learnmachinelearning
+161,"Project, Tried 6/7 models, all give bad accuracy.",datascience
+14,When the boss doesn’t like your charts,datascience
+1503,Interesting Article: Is Programming Good for Kids,Python
+630,What is L1 distance? A 2-minute visual guide.,learnmachinelearning
+593,🧠 A Neural Network Solves and Generates Mathematics Problems by Program Synthesis 🧠 | Paper Explained,learnmachinelearning
+1160,How to get banned from PyCon,Python
+1405,Uber Releases V1.1 of Orbit: A Python Package to Perform Bayesian Time-Series Analysis and Forecasting,Python
+931,"A single-cycle ARMV7 processor that I designed from scratch looking at the arm instruction set for a course. Main board, control unit, main decoder, register file, and ALU in order.",compsci
+1515,Python passwords manager and generator,Python
+1030,"If You're Not Writing a Program, Don't Use a Programming Language (2018) [pdf]",compsci
+1507,"I Started Learning Python Almost 3 Days Ago, And This Is My First Script Ever. How Is It?",Python
+363,"FYI: If You're New to the Industry, the Data Science Job Market is Saturated",datascience
+33,Party's Over?,datascience
+647,Do I need any background deegre for ML?,learnmachinelearning
+166,How was your graduation project ?,datascience
+1157,Made an annoying Python script that sends a friend on Facebook Messenger the Shrek movie word by word,Python
+1186,I'm Pickled Rick!!!,Python
+862,Some more fun with recursive image transformations. Flips and rotations! Source code in comments!,compsci
+1046,Why can't step over after scanf? [already input and hit enter],compsci
+87,Experience/Advice from a 10+ year data scientist,datascience
+1513,The Self-Taught Programmer (For Python) Udemy Course is Free (I think only for today),Python
+583,"After Python and R, which of the following language is most worthwhile to learn for ML?",learnmachinelearning
+883,YAWYSIWYGEE: Yet another what-you-see-is-what-you-get equation editor,compsci
+384,Always Create Three Resumes for Data Science Jobs,datascience
+849,Is there a forum where I can show my data and get recommendations on which algorithm to use and how to create model around the data?,learnmachinelearning
+1135,Apparently Quentin Tarantino is making a movie about Python web programming ,Python
+825,How Computers Have Already Surpassed The Human Brain,learnmachinelearning
+509,"I’m a Data Scientist, Not The Little Tiny Hands that Crunch your Data",learnmachinelearning
+644,Cannot install PyCaret :(,learnmachinelearning
+1495,"Python programming: We want to make the language twice as fast, says its creator",Python
+1191,I made a fractal tree in python using turtle,Python
+594,How to Learn Mechine Learning as a Beginner?,learnmachinelearning
+460,Reinforcement Learning for you,learnmachinelearning
+1410,"Updating Pants BUILD files programmatically, using Bazel tooling",Python
+931,Was Alan Turing wrong ? Jeff Hawkins thinks so...,compsci
+687,How to get good at Data Preprocessing/Feature Engineering?,learnmachinelearning
+1100,Podcast about computer science or topics related ?,compsci
+34,"Key differences between Artificial intelligence, Data Science, Machine Learning and Big Data",datascience
+398,What management want me to do,datascience
+135,"I started self learning data science 2 years ago, and this where I’ve gotten. Advice for beginners.",datascience
+1332,✔ 2022 Python Programming (Beginner To Advanced),Python
+5,Learning data science as if you're an anime protagonist,datascience
+1327,tplot: a library to create text-based plots in the terminal,Python
+855,"No Girls, Blacks, or Hispanics Take AP Computer Science Exam in Some States",compsci
+603,Any resources to improve coding in ML/AI?,learnmachinelearning
+1452,"My startup failed, so I open sourced the code. I hope someone finds it useful.",Python
+1426,Towers of Hanoi,Python
+1391,Ever wonder's this.py module looks?,Python
+34,Data Scientists on languages...,datascience
+454,"As one of my first projects, I made a web app that recognises the math symbol that was drawn and converts it into unicode!",learnmachinelearning
+1532,I created a planet weight calculator whit python,Python
+1413,Small library to parse UK postcodes,Python
+478,"FYI: If you've had your eye on Andrew Ng's ML Coursera course, but are turned off by Matlab/Octave, there is a repo of all the exercises written for Python/Jupyter",learnmachinelearning
+164,How do you reduce information leakage and bias when going from descriptive analytics to prescriptive analytics?,datascience
+800,Jarvis - Speech Recognition Demo with ML5 js,learnmachinelearning
+1140,[TIL] CPython is mostly written in Python (not C),Python
+817,Few-Shot Patch-Based Training (Siggraph 2020) - Dr. Ondřej Texler - Link to free zoom lecture by the author in comments,learnmachinelearning
+1111,Intel Optimizes Facebook DLRM with 8x speedup (Deep Learning Recommendation Model),compsci
+1158,I'm developing a game with Python and Pygame!,Python
+356,Has anyone ever worked with data so difficult that no statistical model was able to make sense of it?,datascience
+65,Does Alteryx has future...?,datascience
+629,Practising ML,learnmachinelearning
+363,Why should I join the company?,datascience
+1215,Intro to Numpy,Python
+816,I created an emoji search tool using word embeddings,learnmachinelearning
+790,Landing a Data Job (Free DS course),learnmachinelearning
+1475,I wrote a song about everyone's favorite Python Enhancement Proposal,Python
+1322,Lambda List bug,Python
+1281,Web api benchmarking: Python (Flask (prod setup)) vs Rust (actix-web),Python
+18,Rookies.....,datascience
+1077,Minimal implementation of SSD: Single Shot MultiBox Detector,compsci
+72,I THINK Data Science is right for me...but I'm not sure. Any suggestions?,datascience
+1210,What is Redis?,Python
+689,Checking and questioning my knowledge of a ANN,learnmachinelearning
+15,"For any python & pandas users out there, here's a free tool to visualize your dataframes",datascience
+1313,Virtual PDF Library,Python
+868,Opinion: CS in Universities Should Not Belong to Arts and Sciences,compsci
+53,Deepnote: The Google Sheets of Jupyter notebooks,datascience
+1122,Why Python is Powerful Enough for Google,Python
+163,What tools do data scientists use to manage their time?,datascience
+1105,Confused about the utility of router(host) loopback address other than for testing purposes,compsci
+852,Logic gates using liquids,compsci
+736,Error while comparing SGD+momentum to SGD,learnmachinelearning
+936,The Black Hole Photo is the result of a gigantic engineering project in which numerous telescopes around the world were synchronized using atomic clocks so accurate that they lose just one second per hundred million years,compsci
+135,Research Project - Showing Causality in Non-Linear Data,datascience
+792,Need help making a transformer model and alterations to make to it.,learnmachinelearning
+1499,Setup VScode For python scripts | Minimal Setup for absolute beginners,Python
+579,The ML Dojo -- get daily updates on the latest in the field of Artificial Intelligence 🧠 and Machine Learning 🤖,learnmachinelearning
+344,Any Master program that easy to get in?,datascience
+1106,Secure voting systems,compsci
+465,All Stanford AI courses (100% free!),learnmachinelearning
+1485,PyCon US 2021 Notes,Python
+577,Any self-taught ML engineers from a NON-CS background?,learnmachinelearning
+1067,(Form) Do you have any discomfort when using the computer?,compsci
+858,/r/theoreticalcs - a subreddit for theoretical Computer Science,compsci
+1345,Finally published my first python package!!,Python
+583,MIT's opencourseware ML courses,learnmachinelearning
+212,No prediction can be 100% accurate.,datascience
+152,Maybe someone looking for a data science job in soccer - AS Roma is looking for a Data Analytics Manager,datascience
+1183,6 Experts share amazing ways a beginner can learn Python programming.,Python
+506,Let’s go!,learnmachinelearning
+1137,Python Programming Tutorial File handling part 18,Python
+1531,A horrifying single line neural network using NumPy,Python
+1386,pyQuickie API! make your own leetcode or other similar website,Python
+1283,How did you learn python?,Python
+1304,br4nch: Data structure tree generator for Python,Python
+1500,A post of appreciation of development of Python,Python
+870,Ever wonder how rendering works from your perspective?,compsci
+1051,How to unzip password protected zip file without password???,compsci
+1305,Detect stock patterns from images,Python
+871,I think I'm going insane.  And I hate fortran. Anyone have any clue why some code would be doing this?,compsci
+638,Smooth loss,learnmachinelearning
+643,Introduction to Machine Learning for beginners.,learnmachinelearning
+421,5 Surprising Ways Machine Learning is Being Used Today,learnmachinelearning
+634,[D]You're working against a tight deadline and need to deliver a project quickly. Would you consider speeding up your model training by using only a subset of the available training data?,learnmachinelearning
+1150,Python 3.2.2 released!,Python
+1141,[Beginner’s Guide] How to start programming in Python,Python
+1274,Created a Stack overflow clone with almost every functionality,Python
+933,"For any python/pandas users I've been building this visualizer for dataframes for the last year, let me know what you think",compsci
+1074,"Get code for ML/AI papers anywhere on the internet (Google, Arxiv, Twitter, Scholar, and other sites)! ❤️",compsci
+566,Learning Machine Learning Efficiently,learnmachinelearning
+811,Learning Roadmap for Beginners in ML (I'm following it). What do you guys think about it?,learnmachinelearning
+1401,Expert Data Science Blueprint | The Secret behind Successful Data Scientist | Part 1 (of 15) | 12 hours full Data Science with Python course | Links to resources in comments,Python
+1324,spotify >> mp3,Python
+393,How do you motivate yourself to pursue your own projects in your free time when working full-time?,datascience
+1045,"Would a ram only computer be super fast but expensive? Is it possible, or practical in any way?",compsci
+86,SQL IRL,datascience
+687,Career advice : phd or not or what would you do,learnmachinelearning
+1177,Some neat tricks for concise Python,Python
+1280,Fixing Memory Leaks In Popular Python Libraries,Python
+1505,Elegant One-Liners in Python,Python
+643,How to specify which nodes in the feature map get applied with different filters/layers in Tensorflow,learnmachinelearning
+737,Another thirty days of machine learning with Kaggle (Part 1),learnmachinelearning
+25,Expectation vs reality,datascience
+203,Friendly reminder to just go ahead and set up git on everything,datascience
+1123,Do the moderators here actually do anything or are they just for show?,Python
+219,ML/AI freelancer ?,datascience
+1508,Free Python Learning Resource Provided by Microsoft,Python
+559,A while ago I created a data science trivia game. I collected more than 170 Q&A. I usually sell them but if there is any student here that wants a digital deck I'm happy to give it for free. The questions are great for interviews.,learnmachinelearning
+1477,👀 Chem.py has started development 🎉 A python library for doing chemistry simulations!! It's open-source too!!!!,Python
+188,How do you feel about libraries that build models for you in R/Python?,datascience
+1072,Emulating a CPU in software (plus a basic assembler),compsci
+400,Completed 48hr take home assessment over the weekend. Rejected top of the morning on Monday.,datascience
+1337,Working with JWTs in Python,Python
+1310,Create Your First Reddit Bot with Python and Heroku,Python
+1375,Web Development in Python - Flask vs Django,Python
+1056,"It's Alan Turing's Birthday on the 23rd of June, who wants to send flowers?",compsci
+1086,"I made a YouTube series on a very interesting coding competition called the ""C Bignum Bakeoff"" held in 2001. Participants write a short C program and the biggest output wins. Going through the entries, one hits upon a lot of fun compsci topics; the link is in the post, along with a few more details.",compsci
+1157,Python Creator Guido van Rossum Reviews Code on CheckiO,Python
+1028,"APL ∊ BCN (Barcelona, Spain)",compsci
+172,"The more I think of my data career, the more anxious I become (mid career)",datascience
+878,Hey reddit. How do you choose your passwords?,compsci
+385,Working at a job with poor data,datascience
+361,Does anyone know of any “Day in a Life of a Data Scientist” video of someone that has ADHD?,datascience
+438,How Machines Learn - CGP Grey,learnmachinelearning
+1186,Hexapod Robot Simulator with only Numpy and Plotly Dash,Python
+375,I'm a Senior Data Scientist at Disney and I'm hosting another Data Science Q&A session this Thursday @ 5:30 PM PST. I'll be joined by a Principal Data Scientist at Clearbanc!,datascience
+917,"A python bot that attends your online classes for you and marks your attendance while answering in class using Speech recognition, Image processing and a bit of NLP.",compsci
+1485,People using Ternary expressions.....who hurt you?,Python
+1479,SQLLEX | Better than sqlite3,Python
+1295,The hand-picked selection of the best Python libraries released in 2021,Python
+1194,Snake 4d - 4 spatial dimension game,Python
+1152,End-to-End Self Driving Car - Need For Speed,Python
+407,Networking - it's not just LinkedIn connections,datascience
+199,Could/should Javascript have been the defacto DS language?,datascience
+4,Self Taught Data Scientist Looking to Mentor 3 Aspiring Data Scientists,datascience
+510,Domain - business area,learnmachinelearning
+808,GOOGLE COLAB PRO,learnmachinelearning
+647,Model consistently under forecasting,learnmachinelearning
+617,Infinite Anime Faces Straight to a Web App,learnmachinelearning
+896,I wish my OS textbook was like this,compsci
+382,Introduction to Data Science book updated,datascience
+507,A Machine Learning victim,learnmachinelearning
+397,Just recently turned in my two weeks notice as an analyst,datascience
+1318,I made a Fasting Calculator with python!,Python
+196,Is data structures and algorithms worth spending my time on before I start my job?,datascience
+387,Resume observation from a hiring manager,datascience
+212,Is it possible to combine Data Science with hacking / IT-security?,datascience
+642,Project: Detecting Pneumonia using Deep Neural Networks.,learnmachinelearning
+90,It's like the notebook but with more tears,datascience
+1129,Just trying to create a orbit system in python and this happened...,Python
+1366,12 Best Completely Free SQL Online Courses,Python
+866,I'm going into compsci as a college freshman in the fall. This is my senior English Final.,compsci
+1173,I think it’s clear why I chose a Software Engineering career path instead of being an Artist,Python
+148,What are the reasons a machine learning/QSAR model might fail?,datascience
+1427,Django Consistency Model,Python
+1257,'Tis the season of giving: Learn Python regex with free ebook and 75 interactive exercises,Python
+389,Webinar: How to start a data consulting business,datascience
+875,Could a newborn baby walk and run by wearing a powered exoskeleton with real-time brain scanner?,compsci
+35,"A ""Data Science"" company stole my gf's ML project and reposted it as their own. What do I do?",datascience
+1285,Learn and create modules in Python in 8 minutes,Python
+1124,100 Data Science in Python Interview Questions and Answers,Python
+631,Theory vs Experimental Research within the field of ML and AI,learnmachinelearning
+1197,Been learning Python as my first language for about two weeks now. Wanted to show off my first couple simple programs. ,Python
+1253,"Guido van Rossum - Python 4.0 will never arrive🤚😔: ""Thеrе will probably nеvеr bе a 4.0 and wе’ll continuе until 3.33, at lеast."" - Sabrina Carpenter [Medium] Then, evidently, we will get a Python 'Pi'",Python
+1118,What makes a minimum spanning tree unique?,compsci
+1341,Mechanical/Industrial/Aerospace python projects to colab in,Python
+671,Time Series Classification Tutorial: Combining Static and Sequential Feature Modeling using Recurrent Neural Networks (Use Case: Cardiac Arrest),learnmachinelearning
+1123,"Just finished programming and building my own smart mirror in python, wrote all of the code myself and implemented my own voice control and facial recognition features",Python
+1457,Any love for Python 2.5 on an i486?,Python
+1136,Python 3 Wall of Shame,Python
+1062,How do you think should Calculus be taught to Computer Scientists?,compsci
+1411,My python template repository,Python
+468,Become a Data Scientist in 2020 with these 10 resources,learnmachinelearning
+909,I used some Java Swing to visualize a neural network's output,compsci
+405,"New Job: No training, too busy to help you, we don't have documentation, we want AI and Machine Learning applied wherever I say so (even if we don't know what that means)",datascience
+145,Excel pivot table for 100k rows?,datascience
+947,Programming Books for Professionals. All the available books are free of cost and legit.,compsci
+6,True that,datascience
+1110,The Duties of John von Neumann’s Assistant in the 1930s,compsci
+1134,Stop writing lambda expressions in Python,Python
+822,precision vs recall: know the difference,learnmachinelearning
+1115,"If P=NP, what would mean for non-researchers and academic folks? How would change, if any at all, the way we write softwares?",compsci
+1158,Pillars of Python: Six Python Web frameworks compared,Python
+406,"As a beginner in this field, Is it normal to feel insecure after seeing people showing crazy ML projects on linkedin?",datascience
+1535,coin flipping python game,Python
+1280,"Do you know, starting from Python 3.10, we can implement Switch-Case statement in very easy way?",Python
+360,1st Attempt: Algorithm Selection Flowchart,datascience
+1059,Humans Can't Be the Sole Keepers of Scientific Knowledge,compsci
+1096,New Proof Reveals That Graphs With No Pentagons Are Fundamentally Different,compsci
+1147,Creating python command-line applications,Python
+588,How to come up with a novel NLP project?,learnmachinelearning
+1159,A DoS attack in 15 lines of code.,Python
+1435,I finished Minesweeper!,Python
+913,Minesweeper is (probably) not NP,compsci
+924,"They said I couldn't have a ham, tomato and cheese croissant; I say they need to review their logic statements",compsci
+457,What do you guys think of Siraj Raval's new Data Lit course?,learnmachinelearning
+74,"My friend said data scientists will be dead soon due to data ""robot""?",datascience
+1073,Concept idea I had: a processor with only a NAND gate.,compsci
+1293,"So, I made this Python algorithm to measure the user's heart-beat just with a video of his finger",Python
+1212,"Started learning python today, Screw 'Hello World' , I'll start with 'Hello There'",Python
+1299,Should I create another python course,Python
+373,Tidyverse appreciation thread,datascience
+389,"R, I love you.",datascience
+1181,Change text in place with custom hotkeys (Python Keyboard Listener),Python
+821,"What Algorithm should i use for my Problem, help",learnmachinelearning
+160,Is this subreddit for data analysts or just data scientists?,datascience
+178,"Fellow WFH’ers, how many hours a week do you think you actually work",datascience
+63,Poor little data analysts,datascience
+1459,i made a bot that turns reddit arguments into ace attorney,Python
+1510,A short list of patterns that beginners miss while writing Python.,Python
+1524,"Complete Python Course (~5 Hours, Free)",Python
+375,"If DS is becoming more like SWE everyday, what is going to happen to the DS that are more like statisticians, predictors, forecasters?",datascience
+1195,[nsfw] script-alize every ***king thing in life e.g. texting to wife etc.,Python
+1150,I wrote a Python program to play Google Dinosaur Game using Gesture Recognition,Python
+1188,15 Essential Python Interview Questions,Python
+1082,Columbia's Alfred Aho and Stanford's Jeffrey Ullman receive 2020 ACM A.M. Turing Award,compsci
+646,"Bootcamp Graduation Project, generating new cooking recipes from a list of ingredients. Which models could fit the task ?",learnmachinelearning
+1092,Questionable New Website: Omicron.life,compsci
+1093,First all-atom simulation of respiratory aerosol with COVID-19 virus inside!!,compsci
+149,I'm beginning to think that the data science job I want doesn't actually exist,datascience
+5,Imposter Syndrome is a problem for me and I think this is the main contributor,datascience
+1497,I'm giving away my book on writing beautiful Python for free to celebrate its alpha release,Python
+452,I made an Infographic to summarise K-means clustering in simple english. Let me know what you think!,learnmachinelearning
+1543,"A free HTML version of my book ""Python from the Very Beginning""",Python
+1064,Is anyone else still in awe of coding/programming and what all it can accomplish?,compsci
+509,"People write poetry when they feel creative. I'm writing a book titled ""Implementation of Machine and Deep Learning Algorithms in Python with Mathematical Context"". Minimal library use, 100% pythonic implementations for machine learning and state-of-art implementations using TF for deep. free+donate",learnmachinelearning
+1156,This great message,Python
+439,This is a project to create artificial painting. The first steps look good. I use tensorflow and Python.,learnmachinelearning
+635,Fast AI NLP course vs Standford 's Natural Language Understanding course,learnmachinelearning
+947,"A demonstration of how bad computers are at picking random numbers - each pixel is a random colour, with the random function seeded with the pixels x and y coordinates multiplied together before drawing each pixel. A pattern clearly emerges (other than the trivial diagonal line of symmetry)",compsci
+1310,Rate my python calculator!! (new to python),Python
+383,"How many of you are hybrids of data analyst, data scientist, and data engineer?",datascience
+1184,Randomly Generate 69420 - Generate random 5-digit numbers until 69420 is generated,Python
+181,Interesting 2021 paper roundup from a CMU econ prof. Lots on forecasting!,datascience
+606,[P] Generating iPhone13 mini cases using StyleGAN2-ADA,learnmachinelearning
+1185,Fourier Series Visualizer in pygame.,Python
+1467,MIT offers free online course in Computer Programming using Python,Python
+1125,Drawing Mona Lisa with 256 circles using evolution [Github repo in comments],Python
+204,Can I use standard deviation to turn a predicted value into a range?,datascience
+819,Build a Machine Learning Model in Under 10 Minutes in the Browser (Dance Move Pose Detector),learnmachinelearning
+180,"The PyMC developers wrote a book! "" Bayesian Modeling and Computation in Python"" Detailed ToC screenshotted, link to publisher's page in first photo",datascience
+1538,Ladies and gentlemen - switch cases are coming!,Python
+1315,TDD Approach to Create an Authentication System With FastAPI Part 3: Mocking and Dependency Injection,Python
+936,"Community Hangout 62 starts at 2pm EDT, 11am PDT, 8pm CET. We are discussing tech updates, community updates and our DAO proposal. #scala #etherum #bitcoin #blockchain",compsci
+1265,I made a teminal tool that shows the weather in neo-fetch like style!,Python
+1425,"decfunc - a library to create decorators in a simple way, using classes",Python
+893,"A ""Modern"" Approach",compsci
+1377,I've made a matplotlib layout generator. Generate axes code using visual app. I hope you find it useful.,Python
+196,"What skills would a ""full stack"" data scientist have?",datascience
+218,Topological DA for Network neuroscience and clinical psychology - Material,datascience
+456,Beginning Machine Learning with TensorFlow JS,learnmachinelearning
+1521,Python turns 30 this month😎,Python
+788,Web app that digitizes the chessboard positions in pictures from any angle,learnmachinelearning
+1260,You can now use 'pip' to install Tailwind CSS. Node.js is no longer required,Python
+493,How to code Obama? a walkthrough,learnmachinelearning
+914,16-bit ALU built within Minecraft video game ,compsci
+793,Top 10 Cities in the World for the best AI and Machine Learning Jobs,learnmachinelearning
+56,An easy guide for choosing visual graphs!!,datascience
+920,EARN-IT Act threatens end to end secure encryption by requiring communications technology to install back door for Feds,compsci
+502,"Using StyleGANs to recreate faces in historical paintings 🖼 You can clearly observe the depth of clarity, accuracy and precision in the outputs on the right. Truly amazing! More like these can be found on Nathan Shipley’s IG Account: https://lnkd.in/d3BYmUM",learnmachinelearning
+1418,pytest-timestamps will add in-line timestamps to your terminal,Python
+1199,Proposal for r/python to adopt Python's code of conduct,Python
+1509,I made a very useful tool for my school and they are very happy with me!,Python
+863,"On popular demand, the Spiral of Theodorus is now back in dark mode!",compsci
+582,Online resources that explain while coding,learnmachinelearning
+42,I created a complete overview of machine learning concepts seen in 27 data science and machine learning interviews,datascience
+1416,CFP and Tickets are now available! | PyCon Italia 2022,Python
+648,How to interpret GitHub repositories,learnmachinelearning
+604,"Sieve: We processed ~24 hours of security footage in <10 mins, now you can search per-frame!",learnmachinelearning
+1309,Is Python Suitable for Mobile Applications?,Python
+702,How does ADAM choose the learning rate?,learnmachinelearning
+1098,Some of the best Java Multithreading and Concurrency Courses for beginners in 2021,compsci
+817,Visualize output of CNN's hidden layers [ output of each layer ] webapp [code below],learnmachinelearning
+371,I was curious if this is legit or an exaggerated mess... only done very basic Data Science courses before,datascience
+1518,Python has made my job boring,Python
+374,What’s the deal with python becoming more popular in job ads?,datascience
+568,[P] Comparison Between Player of Games and AlphaZero,learnmachinelearning
+494,Variance And Bias Cheatsheet,learnmachinelearning
+1103,"Do IT companies actually take care of the algorithmic complexity of their code, or do they just stop at a ""good enough?""",compsci
+136,Someone mentioned a YouTube channel dedicated to statistics but I can't for the life of me remember its name,datascience
+847,How to Find Korean Actors for Binge-Watching with Machine Learning,learnmachinelearning
+1275,Understand operator overloading in Python in just 9 minutes.,Python
+210,What academic path should one take in order to learn GPT-3 and everything about natural language processing in higher education?,datascience
+97,My Giant Data Quality Checklist,datascience
+1546,✔ Python Inheritance OOP For Beginners,Python
+364,Does documentation make you hate the job?,datascience
+1501,Gamestonk Terminal: The equivalent to an open-source python Bloomberg Terminal.,Python
+640,Data science competition recommendations,learnmachinelearning
+401,Data science job market shrinking while data engineering is exploding,datascience
+1095,Why use a rational database such as MySQL rather than just creating a data structure such as a hash table?,compsci
+786,Wondering how learning AI will be integrated into youth education?,learnmachinelearning
+1542,Python is too nice,Python
+880,Real functional programmer don't need functional languages.,compsci
+582,Understanding Forward Propagation in Neural Networks with Python,learnmachinelearning
+142,Why learn SQL for ML tasks,datascience
+1055,Bank of England unveils new banknote celebrating WW2 code-breaker Turing,compsci
+1218,My first ever Python project: A COVID-19 Tracker,Python
+813,How to Start Machine Learning in python in 2021 for free & 100% online,learnmachinelearning
+568,"Custom .h5 for ""dickpics""",learnmachinelearning
+415,Let's make a Simple Voice Assistant like J.A.R.V.I.S using Python [for Beginners & Intermediates],learnmachinelearning
+857,More Universities Should Shut Down Their Computer Science Programs,compsci
+430,"Identical Twins no longer fool Visual AI! - (BTW: I'm the black dude from 2 weeks ago whose AI kept classifying as Obama lol 😅). I gotta say, I'm pretty happy with this progress! ^__^",learnmachinelearning
+1525,Datasette Desktop 0.2.0: The annotated release notes,Python
+883,Less math intensive Computer Science research area,compsci
+1218,Wrote a script that downloads r/wallpaper's hottest 100 images and cycles through them as a wallpaper!,Python
+1484,"I made my first ""complicated"" program, and I'm pretty proud of it!",Python
+68,R for Data Science,datascience
+1329,Exploratory Data Analysis in Python,Python
+1524,8 Different ways to flatten a list of lists in Python,Python
+728,Any references in image data collection?,learnmachinelearning
+183,Report Framework - Trying to move away from Excel for report creation and management,datascience
+584,Any ML study group or meet-up working in projects/ research papers.,learnmachinelearning
+1519,How not to write Python comments,Python
+151,really feel like Data Science gets romanticized and people don't talk about the support aspect.,datascience
+1072,"profiles of nearly 5,000 computer science professors in a spreadsheet",compsci
+1270,"My 7 yr old little brother has Autism and has been very interested in Python lately, what resources can I give him so he can learn programming completely and properly?",Python
+483,Kaggle Expert Notebook!,learnmachinelearning
+28,Does my current salary seem appropriate for my location & experience?,datascience
+1484,"I just had a baby, so naturally I had to program a tool for deciphering his schedule",Python
+1343,"Web scraping and bypassing ""Activate and hold the button to confirm""",Python
+674,Looking for open source ML projects to contribute to,learnmachinelearning
+1029,Computer science: The history of computer development,compsci
+921,Why does scientific computing today still use only technology of the last century?,compsci
+1162,Made a Screen Dimmer based on Facial Recognition with OpenCV and AppleScript!,Python
+1078,Stanford Professor Wins 'Nobel Prize' of Computer Science World | San Jose Inside,compsci
+1184,Can we not circle jerk?,Python
+1477,Wrote this program to skip Spotify Ads using Spotify API,Python
+1528,Tkinter for python 3.10 broken on MacOS?,Python
+355,Formula 1 - Predict count of drivers for future championships,datascience
+825,These plants do not exist,learnmachinelearning
+428,I printed a second Xbox arm controller and decided to have an air hockey AI battle . I used unity to make the game and unity ml-agent to handle all the reinforcement learning thing . It is sim to real which I am quite happy to have achieved even if there is so much that could be improved .,learnmachinelearning
+187,Is there a software/method to find common traits between arrays of data (50 different crypto trades)?,datascience
+49,"“If you met me in a bar, you’d never think I was a data scientist,” she says, describing herself as a motorcycle-riding, bird-watching nerd. “Until I sit down and talk zettabytes of data.”",datascience
+166,Is decision science really a thing? Or is it more marketing buzz?,datascience
+1303,Python Poetry A Dependency Manager — pygists.com,Python
+1108,Should an A* pathfinding visualizer use diagonal paths?,compsci
+418,List of Top 5 Powerful Machine Learning Algorithms That Will Solve 99% of Your Problems,learnmachinelearning
+461,Machine learning debriefed,learnmachinelearning
+1288,PyPrograming Starter,Python
+157,"""Using data science as a force for good"" environmental modeling workshop",datascience
+175,Automatic Wordle solving,datascience
+411,Started learning today and tried classifying my face using my facial recognition AI...,learnmachinelearning
+460,"Activation Functions: Neural Networks Sigmoid, tanh, softmax, ReLU, Leaky ReLU, EXPLAINED !!!",learnmachinelearning
+1454,It takes a village to build an open-source project and a single a**hole to demotivate everyone,Python
+1171,I maDe a sCriPT thAT raNdOMlY cApiTAlIZes lEtTErs iN a SEntENcE,Python
+881,"Donald Knuth Deemed Me ""A Gentleman and a Hacker""",compsci
+458,How can I advance my completely new and very promising algorithm for unsupervised pattern recognition?,learnmachinelearning
+1267,The Ultimate Guide to Python Lists - A detailed tutorial.,Python
+450,Top 10 Data Science Algorithms You Must Know About!,learnmachinelearning
+359,"Is data science turning into a ""catch all"" title for recent Ph.D grads?",datascience
+1288,What is \b realistically used for?,Python
+435,"Prorevenge post generated by an AI I made. (Warning: Has errors and swearing. Also, doesn't make sense, but it's interesting.)",learnmachinelearning
+91,"I'm sick of ""AI Influencers"" - especially ones that parade around with a bunch of buzzwords they don't understand!",datascience
+195,How can I help my new-hires understand the company's DB? I basically want to translate to plain english what each table actually contain. Hadn't realized how hard this actually was for someone unfamiliar with the db.,datascience
+1069,Most Beautiful Question of Computer Science ( Math),compsci
+60,I got a job!!,datascience
+863,Ask Compsci: Best music to study CS?,compsci
+1088,"What do you think about the statement ""You don't learn software engineering at university""?",compsci
+838,"here are our 40 courses, 4 academic years Computer Science curriculum in 1079 YouTube videos. The best thing is that is FREE, easy to access by everyone, and opens many other resources in form of other recommended videos or references in the descriptions.",learnmachinelearning
+504,AI That Can Potentially Solve Bandwidth Problems for Video Calls (NVIDIA Maxine),learnmachinelearning
+1501,"Does anyone else, who knows Python, not like Lua?",Python
+565,I want to create a pill counter using points instead of bounding boxes. What model should I train from?,learnmachinelearning
+82,[video] How to learn data science in 6 months without formal education,datascience
+610,Finding good dataset for diagnosing crop disease project,learnmachinelearning
+0,Why do we see so many daily posts from people hoping to bypass getting an education?,datascience
+1285,Why are search results so bad for Python?,Python
+1539,"Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect. Works on macOS and Linux and Windows",Python
+217,Quick Primer: players in the hiring process,datascience
+1272,"I made a chat application in python (not beginner friendly) because I'm very bored, hope you enjoy",Python
+1131,"It's time to migrate to Python 3.x guys, seriously.",Python
+165,Does anyone here make over $300k? What’s your title what do you do?,datascience
+563,YOLOX + Emotion Detection with Facial Recognition ⭐Enroll Now - https://lnkd.in/deRj6SPf,learnmachinelearning
+1540,"Why Python 4.0 might never arrive, according to its creator",Python
+501,Types of Neural Networks,learnmachinelearning
+21,:),datascience
+1488,Learning the language starting today!,Python
+449,I made an Instagram Bot for creating DeepFakes! @deepfake.maker,learnmachinelearning
+1469,leontrolski - OO in Python is mostly pointless,Python
+943,Who killed Kurt Goedel's mentor? A University of Vienna Professor gives me an incredible explanation. From /r/PhilosophyofScience. ,compsci
+1494,The Single Most Useful Decorator in Python,Python
+898,"I'm choosing a language to learn out of the following (in description).  I would love to hear what you guys think I should do, and why. Thanks!",compsci
+381,Applications of tensors in data science?,datascience
+485,Siraj Raval admits to the plagiarism claims,learnmachinelearning
+632,Federated learning in a nutshell,learnmachinelearning
+1167,Got my first job as a developer!,Python
+1267,This is the sixth birthday of the Python Arcade library!,Python
+824,🍒🥕 I developed this device that collates spectral color data of varying fruits and vegetables with Arduino Nano 33 IoT to detect ripening stages based on spectral color with a TensorFlow Keras neural network model.,learnmachinelearning
+1151,"I made an AI opponent for lesser known board game - Chain Reaction. Apparently, it plays better than me!",Python
+1301,Just created my very first discord bot using discord.py,Python
+455,No Facebook... These items are not similar to a telescope !,learnmachinelearning
+1078,"Seasoned Researchers and Professors here, do you have any treasures to share with aspiring guys like this?",compsci
+424,I created opencv object tracker which can write in air,learnmachinelearning
+396,How would you feel about a handbook to cloud engineering geared towards Data Scientists?,datascience
+1060,Decomposing 1810's top hit with C++ and DFT,compsci
+1104,"Undecidability of Learnability. ""[T]here is no known general-purpose procedure for rigorously evaluating whether newly proposed [machine learning] models indeed successfully learn from data. We show that such a procedure cannot exist."" [abstract + link to PDF, 28pp]",compsci
+1114,Apple's M1 Chip Has a Fascinating Flaw,compsci
+1214,"Work laptop doesn't allow minesweeper? I'm gonna build my own minesweeper, with blackjack, and hookers! In fact, forget the hookers!",Python
+934,BRCA1–BARD1 promotes RAD51-mediated v gvhomologous DNA pairing : Nature : Nature Researchg,compsci
+1064,Question about GitHub,compsci
+1094,"Turing Complete - A neat ""NAND to Tetris"" style puzzle game, where you start out with basic logic gates, and work upward eventually programming your own virtual computer!",compsci
+172,Which solution to aim? (data scientists types),datascience
+369,Why is logistic regression called a machine learning algorithm?,datascience
+83,Im an English major who has a job interview as an associate data scientist tomorrow. All I really know about is some things on excel.,datascience
+86,Best companies in Bay Area to apply to for a first time data science role?,datascience
+409,"Building a tool with GLT-3 to write your resume for you, and tailor it to the job spec! What do you think?",datascience
+65,Map of Data Science,datascience
+349,Day in a life,datascience
+1071,Want an invite to Google foobar?,compsci
+597,Need help,learnmachinelearning
+1168,Recursively flipping and rotating an image. Python source code in comments!,Python
+1233,When to use dict.get in Python (timing),Python
+406,"Can we begin to understand possible mathematical reasons as to why algorithms like ""xgboost"" and ""random forest"" win Kaggle Competitions, instead of neural networks?",datascience
+892,The Science in Computer Science: The Sixteen Character Traits of Science,compsci
+1474,"Google Translate, but for Sign Language - I used Python and OpenCV AI Kit to perform Sign Language Detection.",Python
+57,Distributed Computing and SQL,datascience
+599,Do I need study data structures and algorithms for machine learning?,learnmachinelearning
+596,"Knowledge Distillation, Model Ensemble and Its Application on Visual Recognition - Link to a free online lecture by the author in comments",learnmachinelearning
+1190,What's up with Python people and Ruby?,Python
+1284,Starlite: the little API framework that can,Python
+1531,Object-Oriented Programming with Python,Python
+1132,"I am a medical student, and I recently programmed an open-source eye-tracker for brain research",Python
+416,ML Programming Made [too much] Easy,learnmachinelearning
+1121,I redesign the Python logo to make it more modern,Python
+1284,I made a game in 1 day with pygame,Python
+884,A Proof for P vs. NP Problem,compsci
+898,[R] AI Generator Learns to ‘Draw’ Like Cartoonist Lee Mal-Nyeon in Just 10 Hours,compsci
+162,Books on Model Deployment,datascience
+1415,"My first open-source package on PyPI: `spectrumdevice`, a high-level, object-oriented library for controlling Spectrum Instruments digitisers. A bit of a niche one!",Python
+440,"Hi guys, I've made a Personalized Face Mask Detector. Im still pretty new to ML but I've taken a couple courses and thought I should build something relevant for today's situation. It only allows access if the mask is worn correctly, i.e. over the Mouth and Nose. Please let me know what you think",learnmachinelearning
+649,Implementation of the U-NET Architecture in Keras,learnmachinelearning
+1473,"Stop hardcoding and start using config files instead, it takes very little effort with configparser",Python
+1066,fatal bug example therac 25,compsci
+843,Global MLOps and ML tools landscape,learnmachinelearning
+1316,3 Things You Might Not Know About Numbers in Python,Python
+423,Social distances using deep learning anyone interested I am planning to write a blog on this,learnmachinelearning
+1465,"Be an absolute beginner at python: Check, have co-workers think I'm performing black magic : Check",Python
+1103,Rainbow Tables (probably) aren’t what you think - An explanation of how rainbow tables differ from lookup tables,compsci
+1077,Data Science Core Skills – What Matters the Most in 2021,compsci
+1525,Setting up Anaconda on Windows 10 machine,Python
+40,Why is Python so popular?,datascience
+95,It seems a lot of people want to get into the data science field without having the slightest idea of what it actually entails,datascience
+400,Continue interviewing after a bad experience?,datascience
+946,A Introduction to Tox — Free & Open Source Messenger with Audio/Video Calls as Skype Alternative,compsci
+1025,We call upon Reddit to take action against the rampant Coronavirus misinformation on their website.,compsci
+1100,"Bias in AI - What is it, why does it happen and can it be fixed?",compsci
+490,AI for Businesses,learnmachinelearning
+833,The hitchhikers guide to computer vision,learnmachinelearning
+1368,Free online version of Humanities Data Analysis: Case Studies with Python,Python
+1457,Python in Visual Studio Code – May 2021 Release,Python
+1146,Thought this looked familiar...,Python
+487,ML and DL Interview Questions,learnmachinelearning
+1286,Master Dataclasses in Python Part 3 - Ordering of Dataclasses,Python
+1515,Thought I'd make a list of all the best ways to learn Python I found on the net and help the newbies.,Python
+1089,Running a comp sci club.. in a pandemic,compsci
+1504,Unpopular Opinion: Type hints are a mistake...,Python
+351,What is the most well-paid components of data science?,datascience
+418,Example of Multi-Agent Reinforcement Algorithms,learnmachinelearning
+580,The Best Machine Learning Courses on Udemy (2022),learnmachinelearning
+899,Computational complexity - Big O notation,compsci
+1022,Software development is a creative process; an original masterpiece not a paint by numbers,compsci
+1170,Emacs - the best python editor?,Python
+367,Are there data science jobs that don’t require a lifetime dedication?,datascience
+96,What kind of data science do you perform? Analytical [A] or Building/ML [B]? Which is more in demand?,datascience
+47,4 Reasons Why Economists Make Great Data Scientists (And Why No One Tells Them),datascience
+935,Why don't non-compsci posts get removed?,compsci
+1177,My python image/GIF glitching library is now on pypi!,Python
+1259,"Python is ""Language of the Year for 2021"" according to TIOBE",Python
+368,What is your definition of Data Science?,datascience
+1311,Learn TensorFlow & Deep Learning fundamentals with Python (code-first introduction) part 2/2,Python
+886,Computer Science Book Reading List,compsci
+1261,Top 20 Most Useful Packages Article,Python
+848,Which is best YouTube channel to learn Machine learning?,learnmachinelearning
+429,"Difference in Image Classification, Semantic Segmentation, Object Detection, and Instance Segmentation",learnmachinelearning
+1290,Save WhatsApp Status With Python On Android,Python
+854,"Logic gates with fluid, part 2",compsci
+39,when I start EDA on a new project,datascience
+600,"Nueral networks from scratch in python, part 1",learnmachinelearning
+350,"I got into Data Science out of necessity, and now I don't know if I want to switch out or not, should I try looking for something else?",datascience
+1109,Connected Papers partners with arXiv: a visual tool to find and explore academic papers,compsci
+481,"Blogger has built a home ""torture machine"" for sports",learnmachinelearning
+1209,TIL that in PYTHON it's preferable to ask for forgiveness rather than look before you leap,Python
+573,"[Research 2021] Looking for interesting ML papers to read for the break or the new year? Here is a curated list I made. (with video explanation, short read, paper, and code for each of them)",learnmachinelearning
+156,Can you connect PyCharm Community to Microsoft SQL Server?,datascience
+446,What do you use?,learnmachinelearning
+38,"My project is stuck because my client wants 500,000 Facebook profiles of certain type, which...",datascience
+1342,Python extensions in Rust -- Lessons learned from upgrading a bioinformatics package,Python
+880,Jump Rope + AI! Made this application on top of OpenPose (Python). Link to the Medium tutorial and the GitHub Repo in the thread.,compsci
+888,"Well, damn!",compsci
+1164,"We started late, but we managed to leave Python footprint on r/place!",Python
+188,How far can a certificate in data science get me if I also have a degree in a math heavy science?,datascience
+485,Is there any way to make pocket money with ML while learning ML?,learnmachinelearning
+622,What is a mean and an expected value? A 2-minute visual guide. [OC],learnmachinelearning
+352,Am I too old to do this?,datascience
+732,Has anyone experience val loss curves like this?,learnmachinelearning
+1470,18 Common Python Anti-Patterns I Wish I Had Known Before,Python
+1201,how do I insert python in my html-css web pages ?,Python
+390,Looks like the expected number of dating app matches one can get in Iceland is 187?,datascience
+794,Removing NAs from data be like,learnmachinelearning
+1388,CSM Token grabb,Python
+1491,QR Code UI,Python
+1268,EMOJILANG: A programming language where you can code using emojis🗿,Python
+828,How to choose a metrics for the business??? So that my machine learning models metrics correlates to the success of the business???,learnmachinelearning
+488,Image Classification with Pytorch,learnmachinelearning
+637,Pandas won't let me use fillna on a column when passed into a function,learnmachinelearning
+804,Left-wing vs Right-wing labelled data,learnmachinelearning
+179,Masters in Data Science or in Artificial Intelligence?,datascience
+1496,I did it!!,Python
+629,Convolutional Neural Network from Scratch,learnmachinelearning
+885,How Hard is Computer Science,compsci
+1533,"I learnt to use ASTs to patch 100,000s lines of python code",Python
+1198,A Command Line Stock Dashboard,Python
+1161,This post has,Python
+1499,"Second year calculus done entirely in PYTHON: No pencil or paper is required! Included are things that are traditionally a pain to deal with, such as path and surface integrals. See comments for more info",Python
+1464,"Hey Reddit, here's my comprehensive course on Python Pandas, for free.",Python
+1274,"GitHub - Goldziher/starlite: Light, Flexible and Extensible ASGI API framework",Python
+1050,2D Turing-Machine that computes any 1D Cellular-Automaton in Minecraft,compsci
+1082,Computational Ayahuasca: Simulating DMT on Artifical Neural Network,compsci
+141,"Which course would you suggest to opt for first, Machine Learning or Data Mining?",datascience
+1093,Does anyone have any practice problems for class and method writing for ap cs a?,compsci
+916,I made an interactive solver for the traveling salesman problem to visualize different algorithms. Each step of progress is drawn to the map in real-time and can be controlled all in the browser at tspvis.com.,compsci
+1091,Theoretical breakthrough could boost data storage,compsci
+494,ONNX.js Tutorial with ReactJS for object detection on a website.,learnmachinelearning
+55,Fun stuff - How to forecast AAPL with auto arima in RStudio and predict future trends!,datascience
+894,"Enthusiasit: As I learn to code, what is the true complexity of this algorithim?",compsci
+1322,Ascii-Weather: A minimal shell weather program,Python
+1472,some facts about the for loop in python,Python
+383,Data visualization software with best performance and decent graphics,datascience
+184,How to deal with feature selection?,datascience
+803,Learn how to Forecast Sales using Excel/Python(ARIMA)/Python(Prophet),learnmachinelearning
+1144,"A tool that copies a selected area of your screen, not as a picture, but as pastable text (GitHub in comments)",Python
+366,I translated it from Prussian for y'all,datascience
+1470,prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data,Python
+903,Reverse Engineering Disassembled Programs,compsci
+482,iperdance github in description which can transfer motion from video to single image,learnmachinelearning
+407,Calling out Excel Pro Users,datascience
+830,The 2nd Edition of An Introduction to Statistical Learning just released. Some great new topics have been added and it's still free!,learnmachinelearning
+1039,Is there a way to make an AND operation with three RE?,compsci
+1116,Are we approaching deep learning in the right way?,compsci
+638,ML Deployment,learnmachinelearning
+442,Is Andrew playing KSP ?,learnmachinelearning
+692,Introducing a new AI framework,learnmachinelearning
+1390,Python JSON Parser,Python
+1135,I've made a 3D scanner that's fully automated using Python script on Android phone!,Python
+1527,"Full Course - Financial Data Analysis with Python - Part 1 of 8 - Technical Analysis with DataFrames - Use DataFrames to load historical stock price data, Similarities with DataFrames and Excel, Learn about loc and iloc on DataFrames",Python
+1254,Need a last minute Christmas present? How about turning your loved ones into a prime number using python!,Python
+402,The percentage of adult Americans playing chess once a year was 3% in 2010. What data exists to compare that number to the Fischer era and today?,datascience
+180,Has 2FA reached overkill?,datascience
+1312,Update: youtube-audio-downloader,Python
+1471,Texas Instruments’ new calculator incorporates popular Python programming language,Python
+1498,PSA: Kite is a viral plugin that kills your system performance,Python
+219,Looking for an open-source tool like KNIME & Rapidminer but allows downloading of code of the workflow,datascience
+31,TIME’s “Superforecasters”... See if you can make it through without an eye-roll,datascience
+1459,I really don't like python. How can I learn to enjoy it?,Python
+803,Video: How to Deploy a Machine Learning Model Fast,learnmachinelearning
+1035,Rethinking titles,compsci
+1117,Echo Trees ~ Incentive Routing (Non-Blockchain Digital Gold),compsci
+683,I'm new to data science and planning to make a model that has five numeric inputs and one numeric output:,learnmachinelearning
+185,Best websites (paid) for historical tick data for Equities/ETFs/Indices,datascience
+1338,Coding journey and project ideas for 2022,Python
+904,Atom 1.0 Test Drive - Open Source IDE from Github,compsci
+1487,"Flask 2.0 is coming, please help us test",Python
+1300,Handy Python Functions,Python
+17,The complete guide to learn Python in simple and easy steps.,datascience
+10,Python just isn't worth the hassle,datascience
+649,Using a Genetic Algorithm for a minimax fitness function?,learnmachinelearning
+414,I am trying to make a game that learns how to play itself using reinforcement learning . Here is my first results . I am going to tweak the reward function and put more emphasis on smoothness .,learnmachinelearning
+381,I'm offended by having to scale my data,datascience
+827,The ultimate blueprint to getting a job in data science,learnmachinelearning
+842,"Recent grad, would really appreciate some feedback on my resume.",learnmachinelearning
+422,I have the best model in the town,learnmachinelearning
+1126,Tools used by Python Super Stars,Python
+613,[Notebooks Release] +30 Crypto Trading Notebooks for Kaggle's Crypto Competition,learnmachinelearning
+67,"To All ""Data Scientists"" out there, Crowdsourcing COVID-19",datascience
+1392,"I made a CLI app to download music, supports mp3, flac and m4a files, embeds metadata and album art, can download songs, albums and playlists! All advice, critique and feedback is welcome ^w^",Python
+454,I'm learning a lot about NN,learnmachinelearning
+492,Looking for an online course on ML + TF,learnmachinelearning
+492,Lock & Unlock Ubunto system using OpenCV,learnmachinelearning
+464,Best Machine Learning Books (See comments for the list),learnmachinelearning
+76,Tattoos?,datascience
+1130,"Is it just me, or is SQLAlchemy an unholy mess?",Python
+1381,How to Create a Photo Mosaic in Python,Python
+1417,OOPs and Mocking Meet at Dependency Injection,Python
+1519,Wednesday Daily Thread: Beginner questions,Python
+1205,A hilarious remake of Pong.,Python
+627,CNN for any problem statement ?,learnmachinelearning
+1043,What are the process states in Unix/Linux?,compsci
+809,Statistics vs Geography,learnmachinelearning
+841,"Maybe it's just me, but building individual data pipelines in Tensorflow/Keras can get quite involved.",learnmachinelearning
+374,A lot of people entering this field are like over-fitted models,datascience
+830,Don’t make this mistake with Scaling Data,learnmachinelearning
+1535,"""Automate the Boring Stuff with Python"" online course is free to sign up for the next few days with code MAR2021FREE",Python
+1087,Do programmers actually use Flowcharts/Pseudocode when planning a project?,compsci
+849,Is this good for beginner who wants to learn statistics for Machine Learning ?,learnmachinelearning
+949,"If I download Google Chrome source code and compile it in my machine, will it run faster than the ready to download version?",compsci
+875,My library has a tribute to Alan Turing,compsci
+678,Are there any internships for final year undergrads which focus on publishing a paper?,learnmachinelearning
+472,Microsoft will not sell facial recognition software to police departments until regulations grounded on human rights are passed. The problem with facial recognition software in the US right now is that that the data sets used as training models are biased towards dark-skinned people,learnmachinelearning
+198,Do you tend to forget your fundamentals?,datascience
+734,What are some classification tasks for real estate dataset ?,learnmachinelearning
+1145,"Python Performance Tips, Part 1",Python
+211,Help Categorizing Text using Custom Categories in R,datascience
+929,Dennis Ritchie has passed away. R.IP.,compsci
+398,Got a job interview as a Data Scientist in an advertising agency. What are the Tasks?,datascience
+1200,How to blink multiple LEDs at different rates on Arduino in Python LIKE A BOSS,Python
+216,"What's the deal with ""manual entry"" job applications?",datascience
+1169,I released the Code for the Instagram DeepFake Bot!,Python
+584,What is Gradient Descent? A 2-minute visual guide. [OC],learnmachinelearning
+1081,I made a simple algorithm for NFS Most Wanted in under 500 lines of code!,compsci
+414,How to create stunning visualization using Python?,learnmachinelearning
+222,Does anyone know of an article or blog about the Zillow fiasco from the viewpoint of a data scientist on the team?,datascience
+451,Machine learning experiment,learnmachinelearning
+881,Why a CS degree is better than teaching yourself how to code,compsci
+633,What are Parametric and non-parametric statistics? A 2-minute visual guide.,learnmachinelearning
+1101,New Algorithm that overcomes limitations by hash and B-tree indexes. Search by any possible search key combination in consistent high performance.,compsci
+1128,Debugging Cheat Sheet,Python
+1270,Removing duplicates form a list,Python
+920,XML as a programming language syntax,compsci
+157,no correlation,datascience
+1367,Samila v0.4 : Auto Generative Art,Python
+797,Useful resources to help you build your own Chatbot or Voicebot,learnmachinelearning
+1202,"I created my first app, ""Timeglass"", a simple, unobtrusive menu bar timer for macOS.",Python
+1095,Most important foundational papers in Computer Science,compsci
+882,Narrowing down my college major. (Compsci/Physics),compsci
+444,"Here is why to use NP.RESHAPE(-1,1) and what it do and in what various ways we can use it...",learnmachinelearning
+1076,Is the syslog family suitable for logging in distributed systems?,compsci
+364,One of the better LinkedIn post I have seen in a while,datascience
+1182,[META] What has this subreddit turned into?,Python
+181,Recommended software/cloud options for fitting algorithms on ~1.5 TB of data?,datascience
+879,Proving P=NP is provable,compsci
+441,Looks like my Python Environment after 1 year of coding,learnmachinelearning
+370,Low key the new icon kinda sucks,datascience
+890,The CAP Theorem,compsci
+412,Machine Learning + Augmented Reality Project App Link and Github Code given in the comment,learnmachinelearning
+1055,"With modern computers, can an automated system beat the best humans at chess? (please read details)",compsci
+1430,Secrets of MicroPython 4: How to detect motion,Python
+1391,Play Online Chess with Real Chessboard and Webcam,Python
+634,Andrew Ng ML Course or Fast.ai ?,learnmachinelearning
+722,Sparse datasets: Can I build models with incomplete data in multi variable linear regressions?,learnmachinelearning
+155,Better Method to Predict Frequency/Timing of Payment,datascience
+911,"Ask Compsci: Please help me detect BitTorrent shaping, details in comments",compsci
+160,What is the highest job title you can attain in data science?,datascience
+99,Data Scientist = Web Master from the 90s,datascience
+401,Should Regression Analysis be included in Data Scientist's toolbox?,datascience
+599,Does the negative of the gradient always go downhill?,learnmachinelearning
+143,"Those of you who are taking Data Science courses at a university, what's the most memorable moment you've witnessed in a data science class?",datascience
+645,"Use this new year to start learning something new! Whether it is machine learning or piano, just give it a try for 5 minutes tonight! If it is ML-related, this video might help out, and you can start there!",learnmachinelearning
+93,Data is useless without labels. Compliments of XKCD - Thought you'd all appreciate this one,datascience
+1148,Dramatically improve your skills with this simplified but more thorough guide on object-oriented programming in Python.,Python
+154,Coding language for front end interface and user interaction?,datascience
+1079,The Mozilla Common Voice project is building a free language database for machine learning to enable independent language technology. The final spurt for the next release of the data set is until July 20th.,compsci
+1199,We did it,Python
+404,"It's crazy how effective it's to include ""Data Scientist"" in your job listing.",datascience
+149,"Which data science/ML development processes would you like to see more automated (i.e., have a Python library for)?",datascience
+30,Should data scientists using R and Python switch over to Julia?,datascience
+1512,"My trailer was stolen late last week, so I wrote a Craigslist scraper so I can see if anyone tries to sell it. (With repo link)",Python
+489,Machine Learning Basics | Types | with Example in Hindi,learnmachinelearning
+1317,YoutubeDownloader,Python
+1500,"Pip Install Specific Version - Using Wheel File, Tar File-Most Important Video for Python Beginners",Python
+1215,"The project is finally done, thanks a lot for all of the support you guys gave me. (Wireless media controller v1.2) #rifi",Python
+891,Easiest way to start coding?,compsci
+570,Beating FIFA using Logistic Regression,learnmachinelearning
+1201,Happy 4th of July from Chicago,Python
+1119,"Lad wrote a Python script to download Alexa voice recordings, he didn't expect this email.",Python
+1334,Do you recommend the Google IT Automation with Python Professional Certificate @ coursera?,Python
+1478,a new way to do documentation,Python
+441,How It Feels to Learn Data Science in 2019 – Towards Data Science,learnmachinelearning
+900,Internships??,compsci
+1149,Python in a nutshell (Had to do it),Python
+595,Intutive source for probability?,learnmachinelearning
+1393,I wrote a script for Wordle,Python
+1273,"Is Selenium my best option for logging into an account, retrieving data, and automating bill payment?",Python
+874,HS Senior planning on pursuing a CS degree?,compsci
+403,Is anyone else planning to stay at their current job just because of how demanding the interview process is?,datascience
+1189,Why is P vs NP Important?,Python
+1260,I made a temperature conversion tool with a fail-safe. Here's the code:,Python
+62,Anyone in the transportation sector and working with data science ?,datascience
+33,K-means be like: Mine ! MINE ! MINE !,datascience
+705,"[ Question ] : Time Series Regression: Does modeling a monthly target variable using a couple quarterly (Q1, Q2, Q3, Q4) time series predictors along with monthly predictors violate any statistical assumptions? Would the beta coefficients make sense or are inferences void in this case?",learnmachinelearning
+470,🔥 Machine Learning + JavaScript + TensorFlow = Superpower / Full Video Link in Comments (Via TensorFlow),learnmachinelearning
+1544,How variables are saved in Python and Rust. Side by Side 3: bool,Python
+488,Can graph machine learning identify hate speech in online social networks?,learnmachinelearning
+1259,what should i do after learning fundamentals?,Python
+1080,Top 5 Emerging AI Trends in 2021,compsci
+828,"I'm a Senior DS and I put together a Youtube Channel with project tutorials, resume critiques, and career advice. Let me know what you think!",learnmachinelearning
+184,Can I get away with using R Studio to run Python code only? Or will I have to eventually switch to a different platform?,datascience
+1202,pound-python.org: #python HOWTO,Python
+162,Classifying the Political Compass - what method?,datascience
+1117,Is database knowledge actually one of THE core competencies for people working with data in any way?,compsci
+811,Deeper Understanding of Machine Learning models,learnmachinelearning
+1179,I made a Spotify ad stopper because I was too poor for Premium. It automatically detects when an ad plays and then restarts Spotify in the background. It's my first project after escaping tutorial hell and I'd love any feedback you guys have!,Python
+1097,What are your thoughts on computer generated randomness.,compsci
+1127,There is a flash of light! Your PYTHON has evolved into ...,Python
+636,"RandomForestClassifier error: ValueError: X has 29 features, but RandomForestClassifier is expecting 950 features as input.",learnmachinelearning
+1467,Best answer to what does yield do,Python
+1161,TIL you can use a for...else construct in Python! I will certainly be using this henceforth.,Python
+1205,White Cuts Across Black Background - an effect achieved through good use of the Python Image Library,Python
+1142,Python Cheet Sheet for begineers,Python
+1496,A password manager,Python
+384,2nd Edition of ISLR is now available and free from the authors! It looks 1.5x bigger than the previous edition!,datascience
+3,An r/datascience equivalent that's female-heavy,datascience
+873,Doing 4 years of MIT CompSci in 12 months,compsci
+908,The JavaScript epidemic,compsci
+853,"New study shows high anguish and anxiety with computer tech support due to long lag times, lack of ready resolution",compsci
+1178,Advantage of Python 3 (Functions and Variables),Python
+834,How to Read Math as a Software Engineer,learnmachinelearning
+421,A living legend.,learnmachinelearning
+1070,How do yall take notes for class?,compsci
+498,What is Machine Learning and what are its core concepts ?,learnmachinelearning
+408,Is it common to find data scientist jobs that don't involve ETL?,datascience
+1061,Someone please explain. How will an electron microscope gain access to encrypted data?,compsci
+836,subwAI - I used a convolutional neural network to train an AI that plays Subway Surfers,learnmachinelearning
+837,tensorflow v2.5 now natively supports GPU training on Apple M1. I did a quick performance comparison test with Apple M1 and Google Colab (Tesla T4). Please have a look at the article,learnmachinelearning
+29,My tip to upcoming graduates who want to break into data science: don’t take your first job in something outside of data science,datascience
+41,What is the difference between Data Scientist and Data Analyst?,datascience
+390,I’m tired…,datascience
+378,Do you think Data Science/BI data will be manipulated to serve politics and political objectives?,datascience
+1180,"I was tired of opening 100s of tabs for internship apps. So, I made an app to scrape and apply to every single job listing on Glassdoor with one click using Selenium! (source code and YT video linked below)",Python
+99,"Is this ""Data Science Technical Efforts Segmentation"" correct? Anything missed here?",datascience
+471,Settled,learnmachinelearning
+861,Who wants to help me solve a 17th century code?,compsci
+1105,Are there story books/Novels revolving around computer science?,compsci
+1430,Morse Code Translator Project and File Handling Project,Python
+841,How can I improve the accuracy of my decision tree algorithm?,learnmachinelearning
+819,Real-time recognition of handwritten math functions and drawing their graphs,learnmachinelearning
+1413,Learn Python ASTs by building your own linter,Python
+31,The formatting struggle.,datascience
+1107,How is a bit saved in disk? What physics happen so that the 0 or 1 is stored?,compsci
+872,Found this while reading SICP from MIT.,compsci
+862,I'm interviewing for an internship at a large social networking company what sort of interview questions should I expect.,compsci
+200,The PyMC devs have made their book available free online!,datascience
+615,StarCraft 2 Python AI - Build Marines as a Terran,learnmachinelearning
+887,"Programming is a skill, not a profession.",compsci
+1523,I wrote another Binance trading algo in Python. This one is able to analyse how volatile every coin on Binance is and place a trade when during a strong bullish movement,Python
+380,Partner for data science consultancy firm,datascience
+576,💊Your daily dose of machine learning : different types of GANs,learnmachinelearning
+487,Siraj Raval has a new paper: 'The Neural Qubit'. It's plagiarised,learnmachinelearning
+497,GANsResearch - A Subraddit to have discussions on Generative Adversarial Networks.,learnmachinelearning
+60,Florida Data Scientist Fired/Arrested,datascience
+906,Dynamic Host Configuration Protocol (DHCP)/Domain Name System (DNS),compsci
+1488,16 bytes of Python code compiles to 32 terabytes of bytecode,Python
+1434,I created a game bot that plays a game for me and collects rewards.,Python
+918,"ArtLine, Deep Learning model to generate Line Art Portraits. GitHub link in comments",compsci
+1537,"Guido van Rossum ""honored"" as Python becomes #1 most popular programming language on TIOBE ranking, passing C and Java",Python
+1493,Malicious Webpage Classifier using DNN [Pytorch],Python
+915,6th grade me solved P=NP… i don’t know how y’all didn’t think of this 😌😌😌,compsci
+1498,Kivy App Full Tutorial - (Part 1) | Debug Mode | kivy android apk | kivy android app tutorial 2021,Python
+887,A full adder using dominoes,compsci
+1536,Is it possible to be a Python developer?,Python
+834,"Hi. I am 15 year old programmer and started my own ML course. In case you are interested show some support, love you all :) #MachineLearningForBeginners",learnmachinelearning
+1040,Exploring Application Layer Protocol Negotiation (ALPN),compsci
+45,We've all been there.,datascience
+1486,Do not use mutable objects as default arguments in Python,Python
+1069,"« Words in a Day » This project was made for a four-days workshop on data visualization in relation to the idea of ""quantified self"" (See link in Comment for more) IUAV University of Venice",compsci
+208,What kind of analysis I should conduct to see impact from multivariate time-series data?,datascience
+1255,NASA Scientists use Jupyter to visualize the atmosphere of planets,Python
+385,LinkedIn / Blind / This sub is not real life,datascience
+1428,What is a normal pylint score and what is its significance?,Python
+1058,Programmer calculator and LL parser made in C from scratch,compsci
+1101,How important is calculus for what you do?,compsci
+791,"A set of Jupyter Notebooks to help you understand ML algorithms of regression, dimensionality reduction, unsupervised clustering, KNN, neural networks, etc.",learnmachinelearning
+1539,"I am 14 years old, please rate my work!",Python
+433,A great video to teach you how to build an AI startup!,learnmachinelearning
+1335,[D] Hear me out: I found a better way to estimate the median,Python
+918,Outperforming Rust With Functional Programming,compsci
+949,"My 2020 curated list of articles, resources and links on programming, math and computer science.",compsci
+845,*Semantic* Video Search with OpenAI’s CLIP Neural Network (link in comments),learnmachinelearning
+948,P vs NP explained using only loops,compsci
+809,accuracy,learnmachinelearning
+698,NADAM Optimizer from Scratch in Python,learnmachinelearning
+1131,I've designed brand new cheatsheets (x2) and handouts (x3) for matplotlib,Python
+907,are non-square circuits on the edge of wafers used for anything?,compsci
+1520,Python for Cybersecurity,Python
+1172,Replicating Face Mask Detection - OpenCV and MobileNetV2,Python
+205,Do you use your numpad on your keyboard for data science related projects?,datascience
+1091,Can CSE graduates do a masters in computational physics in India?,compsci
+361,Skew you!!!,datascience
+727,Help me understand and answer a quiz question.,learnmachinelearning
+911,Tim Berner Lees anouncment of the world wide web (Last paragraph),compsci
+73,Don't be this guy. (x-post from r/programmerhumor),datascience
+1180,Photoshop'd parentheses on my background to match Python3,Python
+1079,BSC Numerus fixus Computing Science,compsci
+633,help understanding ppo algorithm,learnmachinelearning
+463,Real Life MARIO ... my 4hrs of work,learnmachinelearning
+1542,Learning Python without writing code all the time,Python
+1291,nurses_2: Widget and async-centric terminal graphics library.,Python
+16,"This corona thing is pretty lame, but this is America. I want to help out, but not by doing pseudoscience with no understanding of epidemiology. Maybe I could help manufacturers of related medical materials or help with logistics/planning, etc. using big data. Any ideas?",datascience
+410,Everything wrong with Zindi data science competition platform.,datascience
+449,I am compiling a list of technical skills that a successful Data Scientist must have. Feel free to add on.,learnmachinelearning
+605,Deriving Taylor Series for Deep Learning Activation Functions,learnmachinelearning
+1541,I never knew events were THIS powerful - A Python observer pattern tutorial,Python
+209,Jupyter Notebook not giving any output?,datascience
+1340,"GitHub - rodrigo-arenas/Sklearn-genetic-opt: Hyperparameters tuning and feature selection, using evolutionary algorithms.",Python
+1090,The Cursed Computer Iceberg 🧊,compsci
+1268,Hack Web Views With A Selenium Python Bot,Python
+1372,featureclass - new way to organize your feature engineering code,Python
+1415,br4nch 1.1.2 - Data Structure Tree Builder for Python.,Python
+1508,Would y’all be interested in a Python YouTuber that’s a fresh beginner?,Python
+182,Helping Business Analysts Understand Data Science and Machine Learning,datascience
+798,What is the need for the learning rate in gradient descent?,learnmachinelearning
+153,"Free reliable, global, easily update-able data",datascience
+701,Inductive Bias of Deep Models,learnmachinelearning
+1308,Moving from pipenv to poetry or PDM,Python
+183,From Data Science to Software Engineer (SWE),datascience
+146,"Trying to get into data science, degree paths and certifications seem confusing.",datascience
+1334,Why you should code Battleship after Tic Tac Toe!,Python
+616,My Top 10 Computer Vision papers of 2021,learnmachinelearning
+1276,Django wants you to build poor quality apps. Here's how to fix this.,Python
+1211,Ruby vs Python,Python
+588,Google Colab's TPUs are training my fashion_mnist model about 5-6 times SLOWER than on CPU. Is there a reason for this and is there a way to make it run faster? Any and all help is appreciated. Thanks.,learnmachinelearning
+721,"Why is this tensor size <length, 1, num_letters> necessary?",learnmachinelearning
+848,Backpropagation Algorithm In 90 Seconds,learnmachinelearning
+1263,Solving software engineering interviews like an expert in Python,Python
+1545,Let's Learn Python - Lists,Python
+704,10 Best AI Courses: Beginner to Advanced,learnmachinelearning
+1207,Lil cheatsheet,Python
+393,Data quality assessment tool,datascience
+1504,Python running without an OS!,Python
+1171,Practical threaded programming with Python,Python
+598,What are Graph Neural Networks?,learnmachinelearning
+864,I taught a neural network to play Flappy Bird with Java/Kotlin,compsci
+865,This guy's art is super cool and I immediately thought it would make an interesting algorithm! Does anyone think they're up to designing one?,compsci
+686,How to get Training Data,learnmachinelearning
+1514,10+ Year CS Teacher here. What I'm doing and why I'm doing it,Python
+1492,Am I wasting my time?,Python
+58,Useless tutorials and blog post will NOT improve your CV but WILL waste our time,datascience
+1136,I made a little program that mutes spotify ads because i dont have the money to get premium . Not anything special but i think its quite neat. Any ideas on cool python projects i can build ?,Python
+1061,Medical Imaging Classification,compsci
+1387,Is it really so important to have experience of working in big (5-10 people) developer teams?,Python
+855,[Project] From books to presentations in 10s with AR + ML,compsci
+81,Christmas gift from girlfriend. Can't wait to read all. Hope everyone here had a blessed holiday season!,datascience
+1053,I used a Genetic Algorithm to generate Cellular Automata.,compsci
+491,The only reason I want to further my learning in Machine Learning,learnmachinelearning
+1049,Qualification Scenarios in a Tournament,compsci
+1530,What are the key reasons Python became so popular?,Python
+1190,My pothole detector. Used yolov3 annotated images on labelimg.,Python
+484,Second ML experiment feeding abstract art,learnmachinelearning
+66,Alternative Python Module to Pandas,datascience
+1182,Found this on twitter,Python
+818,Remove your Tattoos Using Deep Learning / Code Link is given in the comment,learnmachinelearning
+377,That's $44k - $52k for my American friends,datascience
+869,Animation of Doo-Sabin subdivision. Source code and more in comments.,compsci
+837,Made a website that reminds you to blink while working on the computer (site link + code in the comments),learnmachinelearning
+1440,How to work with Credentials and Configurations in Python,Python
+203,DATACAMP & Data Leakage Practices,datascience
+1217,The perfect Python web app: 10 ideas,Python
+735,Question on visualizing hidden NN neurons as images,learnmachinelearning
+1262,Finally a proper email sender,Python
+1054,My university's CompSci building running Conway's Game of Life simulation using programmable lights,compsci
+1163,"A Program that acts as an ""invisibility cloak""... It camouflages any person/object that appears in front of the camera.... Sorry for the colour jittering🙈",Python
+137,Data science is just numbers in a sausage machine,datascience
+1495,"Package for adding .map(), .filter() and .reduce() as list methods",Python
+1506,I’m 36 and just starting to learn Python. Is it realistic to think I could get a job in this field by 40?,Python
+423,Application Of Machine Learning,learnmachinelearning
+29,"When you get an Excel Sheet of 1000x5 and your clients ask you to do ""Data Science"" on this with ""AI""",datascience
+136,[Off Topic] Who among you are into couponing?,datascience
+70,"Where can I post a model up for review? No matter what I try, I can´t get the accuracy up :(",datascience
+88,Data Science - The MUST KNOW to become a successful Data Scientist! -Big Data Analytics News,datascience
+644,Starting route for beginner,learnmachinelearning
+1056,Want to share Interview Preparation Courses,compsci
+937,Why is there not a Master degree in Computer Operating Systems?,compsci
+1269,[Python] Pointers/references in Python,Python
+948,"Come meet Steve Huffman, CEO of Reddit, at USC’s HackSC 2020!",compsci
+600,A quick review of GPT-3 | What is it and how does it work?,learnmachinelearning
+1272,Funding Rich and Textual -- From Open Source maintainer to Founder / CEO,Python
+601,Here's a list of 8000+ programming resources.,learnmachinelearning
+630,Prediction Algorithm,learnmachinelearning
+1319,Simple Random Password Generator,Python
+1291,Which pip version is max supported to be useable with python 3.5,Python
+794,Can I learn ML only by doing?,learnmachinelearning
+1526,Does anyone else dislike working with .ipynb files? Why can't I just define code cells with # %%,Python
+1503,How to create a Discord bot with Python: Part 1 (Setting up),Python
+1303,My TUI library pytermgui just hit its first stable release!,Python
+606,Should I study proofs for the math I'm learning?,learnmachinelearning
+940,/r/Compsci: what is an entry level networking tech job and how do I get it?,compsci
+192,Notes From Stats Class,datascience
+20,"It's Meme Monday, so here's a python meme for DS folks",datascience
+0,data siens,datascience
+1323,How do professional SWEs keep learning more Python?,Python
+723,Why would predicting congressional voting records be useful?,learnmachinelearning
+1522,effbot has passed away.,Python
+805,Help me learn machine learning!! (17yr old),learnmachinelearning
+214,How can you put the knowledge of data science to solve problems related to neuroscience?,datascience
+912,[AI application] Python implementation of Proximal Policy Optimization (PPO) algorithm for Super Mario Bros. 29/32 levels have been conquered,compsci
+800,Is PCA the best way to reduce dimensionality?,learnmachinelearning
+1163, Python’s lambda is broken!,Python
+795,"Started learning ML 14 months ago, now I'm using GPT-3 to automate CVs!",learnmachinelearning
+1529,Interesting Article: Best Competitive sites for programmers 2021,Python
+824,Medical doctor wants to learn machine learning,learnmachinelearning
+207,How to find monthly google searches for a specific keyword?,datascience
+1464,Create your own browser using Python!,Python
+807,Using Reinforment Learning to beat the first boss in Dark souls 3 with Proximal Policy Optimization,learnmachinelearning
+415,Moving on up,learnmachinelearning
+831,Thoughts on how to build ML products or how to start ML companies,learnmachinelearning
+639,Would I be able to do GANs?,learnmachinelearning
+605,Please suggest some Resources to learn ML online preferably at no cost,learnmachinelearning
+3,It’s never too early,datascience
+822,"I made an interactive neural network! Here's a video of it in action, but you can play with it at aegeorge42.github.io",learnmachinelearning
+174,"In your opinion, what social media platform has the best recommendation/ matching algorithm and why? Do you have any insight into how this works and what sort of data is required for it?",datascience
+1118,"I made a program to randomly generate 2d turing machines, and found one that counts in binary!",compsci
+1113,Cambridge Quantum Develops Algorithm to Accelerate Monte Carlo Integration on Quantum Computers,compsci
+437,Getting your first job as a deep learning engineer,learnmachinelearning
+739,Storage options for low-volume models?,learnmachinelearning
+1421,Redis OM lets you use Redis as a main DB and validate models using Pydantic,Python
+1133,Python Cheat Sheet,Python
+155,A (semi-snarky) Request: Write better questions!,datascience
+1511,I got a job!,Python
+190,How to get Cloud experience for Solution Architect role?,datascience
+9,Graph of graph analysis,datascience
+439,Avoiding the ML hipster trap – Models are illuminating and wrong,learnmachinelearning
+499,I just found out Google and Open AI use 1 of 5 algorithms to make their AI. (skip to 5:29 unless you want to Facebooks facial recognition works).,learnmachinelearning
+716,How many rounds of calculations does it actually take for a program to solve for minimization in algorithms like SVM and regression problems?,learnmachinelearning
+854,Blame the Computer/ Pein/ Baffler. longread critique of CS/ software engineering culture/ mentality,compsci
+1192,I created a python script to generate color palettes from images (info + github link in comments),Python
+505,Use machine learning without writing code,learnmachinelearning
+814,PyGAD (Genetic Algorithm) Plays Flappy Bird,learnmachinelearning
+502,5 Must Know Skills For Data Scientists,learnmachinelearning
+1176,"Because of quarantine and online clases I made some scripts to automatically connect to my zoom classes to get more sleep, I also configured my Mac to show old recording of me as a virtual cam in zoom so I don't have to attend early classes",Python
+1160,I finished my Python Ray Tracer capable of rendering refraction and thin film interference!,Python
+165,"How would you define ""Data Science"" in 2022?",datascience
+45,Mathematica is the best tool for data science - change my mind...,datascience
+22,How to become a Data Scientist: a step-by-step guide,datascience
+1320,Setting up Alembic with SQLAlchemy,Python
+1492,I created a 40-minute tutorial that will explain everything you need to Containerize your Python applications using Docker!,Python
+1278,Try drawing with python,Python
+1139,"It’s Python, Not Python 2, Not Python 3!",Python
+182,"Is there a platform other than Github where data analysts and data scientists can store code, and edit it all for free?",datascience
+1195,I'm working on a 2d N-body simulation using Python and Pygame,Python
+392,"Why you're ""bored"" at your job (and how to fix it)",datascience
+802,Do Statisticians like programming?,learnmachinelearning
+577,Computer Science vs Machine Learning,learnmachinelearning
+448,How We do Multiplications in Japan,learnmachinelearning
+858,To what degree Would Augmented Reality change the way we study math?,compsci
+1273,Javascript Vs Python For Web Development,Python
+206,What’s the best platform to create a portfolio of all your DS-related projects?,datascience
+167,How do I prepare to manage/lead teams? Little experience doing this,datascience
+886,"Demonstration of a reverse image search algorithm for detecting transformed images, partial images, and sub-images (link in comments)",compsci
+1321,Build your own Low-Code Business Applications with SpiffWorkflow,Python
+1489,Twitter is opening up its full tweet archive to academic researchers for free,Python
+1191,"The Python documentation is bad, and you should feel bad.",Python
+1153,"""Best programming language to learn as a beginner"" - Python listed in the first place, leaving JS and JAVA behind",Python
+222,How to get in Meta/Facebook,datascience
+720,Racing game AI (Trackmania),learnmachinelearning
+1,This sub is fucking garbage,datascience
+677,Convolution is not dead. (A ConvNet for the 2020s),learnmachinelearning
+208,EliteMini HX90 for data science. Any thought?,datascience
+707,Course that helps build a portfolio,learnmachinelearning
+1066,"What exactly does a Computer Scientist (with a PhD or Masters) work on, compared to a regular software engineer?",compsci
