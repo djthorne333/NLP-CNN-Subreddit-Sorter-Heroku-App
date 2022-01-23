@@ -1,9 +1,0 @@
-Flask>=2.0.2
-spacy>=3.2
-more spacys, one is a download
-torch>=1.10.1
-nltk>=3.6.7
-torchtext
-pandas
-numpy 
-gensim
