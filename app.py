@@ -156,7 +156,7 @@ conv_model.embedding.weight.data[PAD_IDX] = torch.zeros(embed_dim)
 ######################################################################################
 
 
-app = Flask(__name__, template_folder='Templates/', static_folder='static/') #it was looking for folder of this name when running
+app = Flask(__name__, template_folder="Templates", static_folder="static") #it was looking for folder of this name when running
 # model = pickle.load(open('conv_model.pkl', 'rb'))
 # model = torch.load('conv_model.pkl')
 # conv_model = Convo().load_state_dict(torch.load(r'C:\Users\Dave\Desktop\datadata\Practice\csgooo\reddit_proj\title stuff\flask stuff\conv_model.pkl'))
