@@ -1,9 +1,7 @@
 Flask>=2.0.2
 spacy>=3.2
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0.tar.gz
-torch 
-torchvision 
-torchaudio
+https://download.pytorch.org/whl/cpu/torch-1.10.1%2Bcpu-cp39-cp39-linux_x86_64.whl 
 nltk>=3.6.7
 pandas>=1.4.0
 numpy >=1.22.1
