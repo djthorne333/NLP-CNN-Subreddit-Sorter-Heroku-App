@@ -160,7 +160,7 @@ app = Flask(__name__, template_folder='Templates', static_folder='static') #it w
 # model = pickle.load(open('conv_model.pkl', 'rb'))
 # model = torch.load('conv_model.pkl')
 # conv_model = Convo().load_state_dict(torch.load(r'C:\Users\Dave\Desktop\datadata\Practice\csgooo\reddit_proj\title stuff\flask stuff\conv_model.pkl'))
-conv_model.load_state_dict(torch.load(r'C:\Users\Dave\Desktop\datadata\Practice\csgooo\reddit_proj\title stuff\flask stuff\conv_model.pt'))
+conv_model.load_state_dict(torch.load(r'conv_model.pt'))
 #DONT SAY CONVMOD=CONVMOD.LOAD, JUST APPLY THE LOAD METHOD
 
 
