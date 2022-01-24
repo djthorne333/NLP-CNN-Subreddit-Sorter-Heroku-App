@@ -7,7 +7,7 @@ pandas>=1.4.0
 numpy >=1.22.1
 gensim>=4.1.2
 Jinja2>=3.0.3
-torchtext
+torchtext==0.6.0
 torchvision
 torchaudio
 gunicorn
