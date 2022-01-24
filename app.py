@@ -53,9 +53,9 @@ fields = [(None, None), ('text',TEXT), ('label', LABEL)] #none,none so it ignore
 
 
 #loading custom dataset
-train_data2 = data.TabularDataset(path = r'C:\Users\Dave\Desktop\datadata\Practice\csgooo\reddit_proj\title stuff\flask stuff\titles_train.csv', format = 'csv', fields = fields, skip_header = True)
-valid_data2 = data.TabularDataset(path = r'C:\Users\Dave\Desktop\datadata\Practice\csgooo\reddit_proj\title stuff\flask stuff\titles_valid.csv', format = 'csv', fields = fields, skip_header = True)
-test_data2 = data.TabularDataset(path = r'C:\Users\Dave\Desktop\datadata\Practice\csgooo\reddit_proj\title stuff\flask stuff\titles_test.csv', format = 'csv', fields = fields, skip_header = True)
+train_data2 = data.TabularDataset(path = r'titles_train.csv', format = 'csv', fields = fields, skip_header = True)
+valid_data2 = data.TabularDataset(path = r'titles_valid.csv', format = 'csv', fields = fields, skip_header = True)
+test_data2 = data.TabularDataset(path = r'titles_test.csv', format = 'csv', fields = fields, skip_header = True)
 
 TEXT.build_vocab(train_data2, min_freq=W2V_MIN_COUNT) #since word2vec tutorial built with tabdata i changed
 #from sentences and labs to tabdata
