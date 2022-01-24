@@ -8,4 +8,6 @@ numpy >=1.22.1
 gensim>=4.1.2
 Jinja2>=3.0.3
 torchtext
+torchvision
+torchaudio
 gunicorn
