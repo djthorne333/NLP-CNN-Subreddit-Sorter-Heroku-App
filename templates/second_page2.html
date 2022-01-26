@@ -9,25 +9,25 @@
 	<header>
 		<div class="container">
 		<div id="brandname">
-			ML App
+			Convolutional Nueral Network trained from 1300 reddit posts from these subreddits:
 		</div>
-		<h2>Spam Detector For SMS Messages</h2>
+		<h2>Similar Technical Subreddit Sorter</h2>
 		
 	</div>
 	</header>
-	<p style="color:blue;font-size:20;text-align: center;"><b>Results for Comment</b></p>
+	<p style="color:blue;font-size:20;text-align: center;"><b>Thank You for Trying my App!</b></p>
 	<div class="results">
 	
 	
 		
 	{% if prediction == 0%}
-	<h2 style="color:red;">its zero yo</h2>
+	<h2 style="color:red;">This post likely belongs in r/Python</h2>
 	{% elif prediction == 1%}
-	<h2 style="color:red;">its one yo</h2>
+	<h2 style="color:red;">This post likely belongs r/learnmachinelearning</h2>
 	{% elif prediction == 2%}
-	<h2 style="color:red;">its two yo</h2>
+	<h2 style="color:red;">This post likely belongs in r/DataScience</h2>
 	{% elif prediction == 3%}
-	<h2 style="color:red;">its three yo</h2>
+	<h2 style="color:red;">This post likely belongs in r/compsci</h2>
 	{% endif %}
 
 	</div>
