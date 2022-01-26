@@ -10,9 +10,9 @@
 	<header>
 		<div class="container">
 		<div id="brandname">
-			Machine Learning App with Flask
+			Similar Technical Subreddit Sorter
 		</div>
-		<h2>Spam Detector For Email Messages</h2>
+		<h2>Convolutional Nueral Network Trained from 1300 reddit posts</h2>
 		
 	</div>
 	</header>
@@ -20,12 +20,15 @@
 	<div class="ml-container">
 
 		<form action="{{ url_for('predict')}}" method="POST">
-		<p>Enter Your Message Here</p>
+		<p>Enter the Title of the Post Here</p>
 		<!-- <input type="text" name="comment"/> -->
-		<textarea name="message" rows="6" cols="50"></textarea>
+		<textarea name="message" rows="12" cols="100"></textarea>
 		<br/>
 
 		<input type="submit" class="btn-info" value="predict">
+			
+		<p>This application is designed to help aid users and moderaters of the subreddits: in either suggesting to users where posts should be posted/crossposted 
+			to or helping moderators flag posts that are better suited elsewhere without having to read most of them</p>
 		
 	</form>
 		
