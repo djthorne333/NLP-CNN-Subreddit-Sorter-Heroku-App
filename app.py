@@ -40,7 +40,7 @@ test_data2 = data.TabularDataset(path = r'titles_test.csv', format = 'csv', fiel
 
 TEXT.build_vocab(train_data2, min_freq=W2V_MIN_COUNT) 
 LABEL.build_vocab(train_data2) 
-w2v_model = gensim.models.word2vec.Word2Vec.load('word2vec_Reddit.model')
+w2v_model = gensim.models.word2vec.Word2Vec.load('word2vec_reddit.model')
 word2vec_vectors = []
 for token, idx in np.array(list(TEXT.vocab.stoi.items())): #he used some wierd thing,
     # i turned dictionary into array
