@@ -1,6 +1,6 @@
 # NLP-CNN-Subreddit-Sorter-Application
 
-## Please see the Subreddit_Sorter_Notebook.ipynb file for the detailed EDA and Model Development
+## Please see the Subreddit_Sorter_Notebook(1).ipynb file for the detailed EDA and Model Development
 
 ## Project Goals: 
     
