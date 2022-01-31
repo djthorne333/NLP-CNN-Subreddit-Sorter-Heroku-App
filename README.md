@@ -38,7 +38,7 @@
 * We only have about a thousand data points to train with, which is certainly not ideal for a nueral network. Also, posts that include links without a lot of context will be difficult for this model to classify.
 
 ## Results:
-* Model accuracy using custom word2vec :62%
+* Model accuracy using custom word2vec : 62%
 * Model accuracy using glove : 53%
 
 
