@@ -22,7 +22,7 @@
 * Since these subreddits contain a vocabulary of technical nature, pretrained embeddings may not have been trained on many of the unique words found in the vocab of these subreddits and may not help with text classification . I trained a custom Word2Vec embedding with reddit titles contained within the train data only.
 
 #### "Finding" the filters:
-* First I identified all frequently occurring unigrams/bigrams/trigrams within the data. Then I converted them into tensors according to the custom word2vec embedding. Once the tensor representations were obtained (the "meaning" of the grams), I found which of those tensors had a high frequency of significant cosine similarity among all other grams of the same size in the data. By identifying the number of frequently occurring gram "meanings" within the dataset, I was able to determine the optimal number of convolutional filters for the model to use.
+* First I identified all frequently occurring bigrams/trigrams/quadgrams within the data. Then I converted them into tensors according to the custom word2vec embedding. Once the tensor representations were obtained (the "meaning" of the grams), I found which of those tensors had a high frequency of significant cosine similarity among all other grams of the same size in the data. By identifying the number of frequently occurring gram "meanings" within the dataset, I was able to determine the optimal number of convolutional filters for the model to use.
 
 
 
