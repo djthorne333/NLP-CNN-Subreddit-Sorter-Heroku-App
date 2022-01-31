@@ -28,7 +28,7 @@
 
 
 ## Model:
-* A convolutional neural network with filters of size (1,2,3,4) words. Embedding dimensions were experimented with to obtain optimal results . A Single fully connected layer also gave the best results, as well as a learning rate = .001, Batch size = 5, and dropout = 0.3.
+* A convolutional neural network with filters of size (1,2,3,4) words. Embedding dimensions were experimented with to obtain optimal results. A Single fully connected layer also gave the best results, as well as a learning rate = .001, Batch size = 5, and dropout = 0.3.
 
 ## Training:
 * I evaluated the loss/accuracy of a validation set against the train set and trained past the plateau of model accuracy to obtain a model with that has the highest accuracy while still having a lower validation loss than train loss to avoid overfitting, and carry performance to the real world. I used enough epochs so that the plateau of validation loss/accuracy is clearly visible on the plots of loss/accuracy vs training epoch.
