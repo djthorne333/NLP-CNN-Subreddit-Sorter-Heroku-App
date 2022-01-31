@@ -14,7 +14,7 @@
 * Data was scraped at the beginning of January using praw, a reddit API scraper package. Posts from these four subreddits: (Python, datascience, learnmachinelearning, compsci) were collected over every available timeframe that reddit allows users to sort by, and by top and by controversial posts, then duplicates were removed. Posts with URLs and other characters (see scraper file) were coded not to be scraped. 100 posts from each subreddit for each timeframe and category were collected. Posts with over 200 characters were not scraped.
 
 ## Cleaning:
-* Data was cleaned using spacy stopwords and tokenized using nltk word_tokenize. Common in consequential words (stopwords) were removed from sentences, and the remaining words were left as comma separated tokens.
+* Data was cleaned using spacy stopwords and tokenized using nltk word_tokenize. Common inconsequential words (stopwords) were removed from sentences, and the remaining words were left as comma separated tokens.
 
 ## Feature Creation:
 
