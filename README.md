@@ -1,8 +1,8 @@
 # NLP-CNN-Subreddit-Sorter-Application
 
-# NOTE: Sometimes Github decides not to render the output of a notebook. If this happens, paste the link of the .ipynb file within the repo to https://nbviewer.org/
-
-## Please see the Subreddit_Sorter_Notebook(1).ipynb file for the detailed EDA and Model Development
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# NOTE: Currently Github is not rendering all of the outputs within the notebook, although plots and images seem to work. Please refrain from clicking on the .ipynb file and instead paste the link of the .ipynb file within the repo to https://nbviewer.org/ in order to view the notebook as it was meant to be viewed.
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## Project Goals: 
     
