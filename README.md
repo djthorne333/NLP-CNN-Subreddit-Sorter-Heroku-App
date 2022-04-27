@@ -1,4 +1,5 @@
 # NLP-CNN-Subreddit-Sorter-Application
+## Site link: https://datascience-reddit-post-sorter.herokuapp.com 
 
 # ⚠️ NOTE: Currently Github is not rendering all of the outputs within the notebook, although plots and images seem to work. Please refrain from clicking on the .ipynb file and instead visit https://nbviewer.org/github/djthorne333/NLP-CNN-Subreddit-Sorter-Application/blob/main/Subreddit%20_Sorter_Notebook%20%281%29.ipynb in order to view the notebook as it was meant to be viewed.
 
@@ -44,7 +45,7 @@
 
 
 ## Deployment:
-* Application was created using flask and Heroku. It takes about 30 seconds to load, please be patient. The app can be found here: https://datascience-reddit-post-sorter.herokuapp.com . Please see the app.py file in the repo for the application code. 
+* Application was created using flask and Heroku. The app can be found here: https://datascience-reddit-post-sorter.herokuapp.com . Please see the app.py file in the repo for the application code. 
 
 ## Instructions to run:
 * Again, the app url can be found here: https://datascience-reddit-post-sorter.herokuapp.com . It takes about 30 seconds to load, please be patient.  Type the title of the reddit post you wish to make and it will suggest where it belongs among those four subreddits. All csv files and saved model outputs are included in the repo. The web scraper using praw is included as a py file: scrape praw for word2vec_titles.py. If you wish to run this project, then after downloading simply link to the necessary paths within the project to where you keep those files. Cells should be run in order of course.
