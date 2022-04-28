@@ -118,7 +118,8 @@ conv_model.embedding.weight.data[PAD_IDX] = torch.zeros(embed_dim)
 
 
 template_dir = r'templates'
-app = Flask(__name__, template_folder=template_dir)
+static_dir = r'static'
+app = Flask(__name__, template_folder=template_dir, static_folder=static_dir)
 conv_model.load_state_dict(torch.load(r'conv_model.pt'))
 
             
