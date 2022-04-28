@@ -117,7 +117,7 @@ conv_model.embedding.weight.data[PAD_IDX] = torch.zeros(embed_dim)
 ######################################################################################
 
 
-template_dir = os.path.abspath('NLP-CNN-Subreddit-Sorter-Application/templates/')
+template_dir = 'NLP-CNN-Subreddit-Sorter-Application/templates/'
 app = Flask(__name__, template_folder=template_dir)
 conv_model.load_state_dict(torch.load(r'conv_model.pt'))
 
