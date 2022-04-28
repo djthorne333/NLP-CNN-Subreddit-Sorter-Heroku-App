@@ -135,35 +135,14 @@ def predict():
     if request.method == 'POST':
         inputs = request.form['message']
         inputs = inputs.split()
-        inputs = pd.Series(inputs)
-        inputs = inputs.str.lower().apply(word_tokenize)  # input is now a list not series which str works for
-        inputs = inputs.apply(lambda x: [item for item in x if item not in stopwords])
-        inputs = inputs.astype(str)
-        
+        inputs = pd.Series(inputs)  # making a series to use .str.lower().apply(word_tokenize) again
+        inputs = inputs.str.lower().apply(word_tokenize)  # lowercase tokenize
+        inputs = inputs.apply(lambda x: [item for item in x if item not in stopwords])  # stopwords
+        inputs = inputs.explode().dropna().tolist()  # explode frees words from list, make as list
+
         # lower and word tokenizer converts sentences into lists of tokens, so our words looked like [word]
-        # so I chose to remove those characters manually for some reason which is uh, well it works
-
-        inputs2 = []
-        for s in inputs:
-            s = str.replace(s, "[", "")
-            inputs2.append(s)
-
-        inputs3 = []
-        for s in inputs2:
-            s = str.replace(s, "]", "")
-            inputs3.append(s)
-
-        inputs4 = []
-        for s in inputs3:
-            s = str.replace(s, "'", "")
-            inputs4.append(s)
-
-        while ("" in inputs4):
-            inputs4.remove("")
-
             
-        indexed = [TEXT.vocab.stoi[t] for t in inputs4]
-        
+        indexed = [TEXT.vocab.stoi[t] for t in inputs]
 
         inputs = torch.LongTensor(indexed)
         # add a batch dim
@@ -175,7 +154,7 @@ def predict():
         predictedlabel = torch.argmax(output, dim=1)
         print(predictedlabel)
     return render_template('second_page2.html', prediction=predictedlabel)
-    #needed {{}} to define variable whos value in here that we wanted to display
+   
 
 
 if __name__ == "__main__":
