@@ -117,11 +117,12 @@ conv_model.embedding.weight.data[PAD_IDX] = torch.zeros(embed_dim)
 ######################################################################################
 
 
-app = Flask(__name__)
+template_dir = os.path.abspath('../Soulify/App/templates/')
+static_dir = os.path.abspath('../Soulify/App/UI/static/')
+app = Flask(__name__, template_folder=template_dir, static_folder=static_dir
 conv_model.load_state_dict(torch.load(r'conv_model.pt'))
 
-
-
+            
 #home bound
 @app.route('/')
 def home():
